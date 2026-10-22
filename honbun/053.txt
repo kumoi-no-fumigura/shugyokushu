@@ -1,0 +1,50 @@
+zkt-shugyokushu-2601				か澄む月はのきの菖蒲に影おちて有明の空に鳴く郭公	
+zkt-shugyokushu-2602				なつかしや花橋のかをる香を窓に眺むる夜はの月影	
+zkt-shugyokushu-2603				〓夏の夜の松風きよき月影を惜むとすれば明くる東雲	
+zkt-shugyokushu-2604				賀木立繁き山べにすむ月のもりくる影に凉む頃かな	
+zkt-shugyokushu-2605				0夕夕立の洗て過ぐるみ空より出づる隈なき夏の夜の月	
+zkt-shugyokushu-2606				。月影の〓見が關の夏の夜は波を數ふる程だにもなし	
+zkt-shugyokushu-2607				。。諏訪の海に夏の永をしく物は秋耻かしき夜はの月影	
+zkt-shugyokushu-2608				一〇夏の夜は待つも惜むも影〓き月に凉しき山の井の水	
+zkt-shugyokushu-2609				00ののかかあらぬか夏の夜の寢まちの月の有明のそら	
+zkt-shugyokushu-2610		鹿〓		xささ鹿の聲ぞ身にしむ春日山秋まちえたる夕暮の空	
+zkt-shugyokushu-2611				加三笠山さして物こそ悲しけれ浮世の秋のさを鹿の聲	
+zkt-shugyokushu-2612				co衣衣つまとふ鹿の夕ごゑに袖しをれぬるくさ枕かな	
+zkt-shugyokushu-2613				〓〓は鹿鹿の音無ば如何にせまし獨寢覺のみ山べの里	
+zkt-shugyokushu-2614				加石上ふる野の小篠路しだき鹿こそは鳴け三輪の山本	
+zkt-shugyokushu-2615				〓鹿の音に野寺の鐘をうちそへてあるか心の秋の夕暮	
+zkt-shugyokushu-2616				一杉の庵に夢結び行く窓ふりて初瀨の案に小鹿鳴く也	
+zkt-shugyokushu-2617				菅原やふしみに結ぶよるの夢を殘すぞ鹿の曉のこゑ	
+zkt-shugyokushu-2618				一春日野に鹿の音たつる夕まぐれ神にぞ所る秋の心を	
+zkt-shugyokushu-2619				さし昇る月に答へて鳴く鹿に我も三笠の山のはの月	
+zkt-shugyokushu-2620		落葉		一本葉ち〓立田の里の槇のやに音せぬ風は時雨也けり	
+zkt-shugyokushu-2621				〓時雨をば時雨と聞けど木葉ちる槇の板やに風弱る也	
+zkt-shugyokushu-2622				色變てちるは習の木の葉にも思知らるゝ浮世也けり	
+zkt-shugyokushu-2623				秋の葉の冬の嵐に類はずば風も紅葉もかひ無らまし	
+zkt-shugyokushu-2624				風風の行く梢の色はそれながらたヾ一筋に散る淚かな	
+zkt-shugyokushu-2625				°〓嵐吹く空に木葉の消やらで憂身に〓ぐる頃ぞ悲しき	
+zkt-shugyokushu-2626				一神無月いくたの杜の秋の葉に松かぜ過ぐる夕暮の空	
+zkt-shugyokushu-2627				二山里の道は木の葉に埋もれて梢くまなき月を見る哉	
+zkt-shugyokushu-2628				村雲や梢にかゝる夕しぐれ庭の落葉に音ぞさびしき	
+zkt-shugyokushu-2629				紅をおろす嵐と聞くほどに庭の錦をまたたゝむなり	
+zkt-shugyokushu-2630		法文		法法庭庭〓普門を立てゝより雖も入べき道と知にき	
+zkt-shugyokushu-2631				一一ののだなは何ぞ捧ぐる人の胸に止りぬ	
+zkt-shugyokushu-2632				我山のかひある道に身を入て賴む悟も何にやは非ぬ	
+zkt-shugyokushu-2633				日にそへて我が立つ柚の山川に法の水こそ心細けれ	
+zkt-shugyokushu-2634				故〓に〓この御るる神は唯心こそ心なるらめ	
+zkt-shugyokushu-2635				20期附日さすや高ねの山路より通らぬ野べに出る鹿の音	
+zkt-shugyokushu-2636				一押なべて空しき空にすむ月の又宿る夜を賴む物かは	
+zkt-shugyokushu-2637				二いふ〓とはみな眞なる御法こそげには佛の御法也けれ	
+zkt-shugyokushu-2638				殘る人は誠の道になけれども宛ら殘ることぞ悲しき	
+zkt-shugyokushu-2639				〓まましや數限なきちり山を幾ら越えこし聖とか見る	
+zkt-shugyokushu-2640		春		春たつと聞より霞む空なれば花かと見えて雪も散見	
+zkt-shugyokushu-2641				春霞た廉く野べの小松原いつも子日の心ちこそすれ	
+zkt-shugyokushu-2642				花と竹とついく梢の山里にうぐひすさそふ春の山風	
+zkt-shugyokushu-2643				〓佐保姫の柳の眉に糸そめて花の綾おる頃は來にけり	
+zkt-shugyokushu-2644				ね春の來て梅さく宿のなさけかな月形かをる有明の空	
+zkt-shugyokushu-2645				9雲雲ぬる春の田面のうは霞八重になりゆく夕暮の空	
+zkt-shugyokushu-2646				一賤のめは春雨そゝぐ苗代に蛙の聲をまかせてぞ行く	
+zkt-shugyokushu-2647				ニ春春くの軒の絲ゆふ窓懸て浮世の夢ぞいとゞ亂るゝ	
+zkt-shugyokushu-2648				四四の海を千年までとや神も見む松の梢にかゝる藤波	
+zkt-shugyokushu-2649				山吹よ井手の川波立ち返り春のかたみに習し留まれ	
+zkt-shugyokushu-2650				〓今日よりは霞の袖に立かへて夏こそ着たれ蟬の羽衣	

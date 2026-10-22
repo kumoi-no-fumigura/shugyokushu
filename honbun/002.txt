@@ -1,0 +1,50 @@
+zkt-shugyokushu-0051		旅十首		か津の國の蘆のしのやに泊る夜は難波の〓とも哀なる哉	
+zkt-shugyokushu-0052				一露しげき秋の野原を朝立てば思はぬ袖の萩が花ずり	
+zkt-shugyokushu-0053				ささぬぬだに草の枕は露けきに淚すゝむる蟲の聲ごゑ	
+zkt-shugyokushu-0054				んむむそことも見えず春霞都の方は立ちな隔てそ	
+zkt-shugyokushu-0055				〓波のよる磁の苦やに旅寐してさも非ぬ袖を濡しつる哉	
+zkt-shugyokushu-0056				一儚くも都の方ぞ戀ひらるゝ我を思出る人はあらじな	
+zkt-shugyokushu-0057				〓我のみと何思ふらむ草の庵月も宿をばかりける物を	
+zkt-shugyokushu-0058				沖つ風けあしけれ共漕出ぬと都の人にいかで知せむ	
+zkt-shugyokushu-0059				草枕かへす衣におく露をうらの玉とや人の見るらむ	
+zkt-shugyokushu-0060				正あだなりと何か思はむ草枕孰くか終の住かなるべき	
+zkt-shugyokushu-0061		祝十首		た磯の上ふりにし人に言問はむ君が齡のたぐひ有やと	
+zkt-shugyokushu-0062				君君代代を何に譬へむたづのゐる濱の眞砂も數ならぬ哉	
+zkt-shugyokushu-0063				たまさかに花咲桃の君が代になるてふ〓とは千度百度	
+zkt-shugyokushu-0064				在住吉の松の千年と君が代と孰れ久しき神に間はヾや	
+zkt-shugyokushu-0065				cmか山山嶺嶺りいづる月影は君が齡を照すなりけり	
+zkt-shugyokushu-0066				三濁るらむ川瀬の水も君が代にすむべき數の限なき哉	
+zkt-shugyokushu-0067				三いつしかと春の初めに爲の君が千年をもゝ色となく	
+zkt-shugyokushu-0068				君君代代は限なしとて有りぬべし例へていへば尙愚也	
+zkt-shugyokushu-0069				【鶴鶴の雲の上よりおり居るを齡を君に讓るとぞ聞く	
+zkt-shugyokushu-0070				雙葉なる松は千代經物ぞとも君が見たてゝ語るにぞ知る	
+zkt-shugyokushu-0071		述懷十首		短徒らに明し暮して高砂のまつ〓ともなき身を如何せむ	
+zkt-shugyokushu-0072				後世の〓とをしぞ思ふ數ならず鳴海の浦の波の立居に	
+zkt-shugyokushu-0073				〓ししゝゝ果はいかにか成べきと思續けてね社泣るれ	
+zkt-shugyokushu-0074				〓何事も思ひもわかで世中を明ぬ暮ぬとすごしつる哉	
+zkt-shugyokushu-0075				coおしなべて浮世の中を恨むかは我身一つの歎也けり	
+zkt-shugyokushu-0076				一程もなき露の世にだに住佗ぬ消なむ後の身をいかにせむ	
+zkt-shugyokushu-0077				ニいいにせむ過る月日は止られば思でもなく年の經のべき	
+zkt-shugyokushu-0078				三世の中を心高くは思べども人とひとしきとのなき哉	
+zkt-shugyokushu-0079				數數らら我我の程を知のれば人をもえ社恨ざりけれ	
+zkt-shugyokushu-0080				四入日さす西に心をかへる身は暮行く年も惜からぬ哉	
+zkt-shugyokushu-0081		無常十首		露むすぶ蓬が原を見渡して思ひとくこそ哀なりけれ	
+zkt-shugyokushu-0082				45儚儚て過る此世を夢ぞとはさめて後こそ思ひ合せめ	
+zkt-shugyokushu-0083				〓今日知らぬ憂世の中の例には何か我身の成むとす覽	
+zkt-shugyokushu-0084				加世中は河瀨に見ゆる泡の消えみ消えずみ過る儚なさ	
+zkt-shugyokushu-0085				∞、計計は夢現とてかはれども儚きとは違はざりけり	
+zkt-shugyokushu-0086				ユ水の而に映れる月の譬ひにて有か無かの世にも有哉	
+zkt-shugyokushu-0087				程もなく哀うき世の例かな積ると見れば消ゆる淡雪	
+zkt-shugyokushu-0088				「跡もなく漕行く舟の見ゆる哉過ぬる〓とは是に譬へむ	
+zkt-shugyokushu-0089				朝顔の儚き物といひ置きてそれに先だつ人や何なる	
+zkt-shugyokushu-0090				五昨日見し人も儚く成にけり夜の間に散か花に紛はで	
+zkt-shugyokushu-0091		釋〓十首〓		が罪人は法の御舟の微りせば苦しき海を渡らましやは	
+zkt-shugyokushu-0092				賴もしな佛の道に入〓とは憂身なれ共もれずとぞ聞く	
+zkt-shugyokushu-0093				〓停しや親を親とも知ずしてこはいかにして立歸る覽	
+zkt-shugyokushu-0094				一個の屋に暫し宿れと〓へしは心ありける道しるべ哉	
+zkt-shugyokushu-0095				〓〓〓小〓法の心をしりぬればむつの渡りも辿られぬ哉	
+zkt-shugyokushu-0096				「蓮葉に法に反きし人だにも遂に佛に成るとこそ聞け一	
+zkt-shugyokushu-0097				一ののすむ月影を見ぬ〓とはみの浮雲の蔽ふなりけり	
+zkt-shugyokushu-0098				誰も皆佛の道に入る〓との定まりぬると聞くぞ嬉しき	
+zkt-shugyokushu-0099				思きや我がもりたてし與兒の誠の道の知べせむとは	
+zkt-shugyokushu-0100				罪もなき草の葉に置露なれば消行〓とや程なかるべき	

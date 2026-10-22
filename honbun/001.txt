@@ -1,0 +1,50 @@
+zkt-shugyokushu-0001		百首和歌花十首		山高み嶺の櫻の散るときは麓のさとに雪ぞふりける	
+zkt-shugyokushu-0002				押なべて風の谷にも云なさじ心に花の散にも有る覽	
+zkt-shugyokushu-0003				山櫻咲きなむのちは春霞梢をよきてへだてましかば	
+zkt-shugyokushu-0004				盛なる花を二たび見つる哉散りしく庭とちらぬ梢と	
+zkt-shugyokushu-0005				○山山みみににつけてぞ惜るゝ花なき里にいざ住ひせむ	
+zkt-shugyokushu-0006				一人每にとひて聞かばや櫻花散るを惜まぬ心ありやと	
+zkt-shugyokushu-0007				三花故に故〓人に逢見てはまた來む春を契りけるかな	
+zkt-shugyokushu-0008				三く春ばれれ櫻櫻すとあくがれてともの山べに日を暮す哉	
+zkt-shugyokushu-0009				春風を厭ふ心をひきかへてしたがふ花を今は恨みむ	
+zkt-shugyokushu-0010				咲き咲す散につけても苦しきは花社御代の例也けれ	
+zkt-shugyokushu-0011		郭公十首		來來くやと知花垣はしたれどもまだ音もせず山郭公	
+zkt-shugyokushu-0012				セ七郭公初音を聞くや山賤のあやしき身にもとり所なる	
+zkt-shugyokushu-0013				〓時時まだ里なれぬ忍び音を聞くらむ人の心いかにぞ	
+zkt-shugyokushu-0014				なん〓〓に何か語らふ時鳥もの忘れたき夜はの一聲	
+zkt-shugyokushu-0015				〓郭公一聲にこそ尋ねつれ名殘なしとて何かうらみむ	
+zkt-shugyokushu-0016				でふり積る雪とや見まし卯花を山郭公來鳴かざりせば	
+zkt-shugyokushu-0017				山山に家居しすれば郭公待つも待ぬも同じ音ぞ聞く	
+zkt-shugyokushu-0018				郭公は橋橋になく聲は思ひなしにやなつかしきかな	
+zkt-shugyokushu-0019				五五雨雨の〓しなければ郭公笠とり山をさして鳴く也	
+zkt-shugyokushu-0020				諸共に語らひおきて郭公死出の山路の知べにもせむ	
+zkt-shugyokushu-0021		月十首		大大川川むむ月影のいるを見て小倉山とや云初めけむ	
+zkt-shugyokushu-0022				かこやの池に映れる月の光あれば蘆の下葉の露も隠れず	
+zkt-shugyokushu-0023				〓中々にいたくなさえそ秋の月見れば涙に曇る由なし	
+zkt-shugyokushu-0024				山山のはを何か厭はむ〓見潟浪間に月は入りける物を	
+zkt-shugyokushu-0025				0何となく物ぞ悲しき詠むればあな味氣なの月の光や	
+zkt-shugyokushu-0026				一山里に我は年頃住みぬればさし入る月の主がほなる	
+zkt-shugyokushu-0027				中々にもりくる月の爽けきは暗き木蔭にはゆる也見	
+zkt-shugyokushu-0028				秋の月汗行くよはの哀れさを何に喩へて人に語らむ	
+zkt-shugyokushu-0029				宿宿ああ主もなけれど月のみぞ澄も變らぬ廣澤の池	
+zkt-shugyokushu-0030				〓〓見兒士のねの絕ぬ烟も心してたて	
+zkt-shugyokushu-0031		雪十首		今朝見れば庭もはだれに雪降て冬めきに見賤の山里	
+zkt-shugyokushu-0032				〓深み人も問來ぬ先に來て道ふみ初めつみ山べの里	
+zkt-shugyokushu-0033				雪ふれば其とも見えず稻荷山孰くなるらむ杉の村立	
+zkt-shugyokushu-0034				淺ましや雪踏分けし深山路の栞を見れば梢なりけり	
+zkt-shugyokushu-0035				°志志のののるは比良の高嶺に雪や降覽	
+zkt-shugyokushu-0036				。冴々えて雪降敷けば筵田のいつぬき川ぞ先氷りける	
+zkt-shugyokushu-0037				「就くより降來ると社見えわかね風に隨ふ雪の氣色は	
+zkt-shugyokushu-0038				00番小舟苦引き懸て漕ぎつけよ濱風寒み雪もよこ入〃サ	
+zkt-shugyokushu-0039				o。天の戶はまだ明ぬ間に孰くより降出つらむ庭の白雪	
+zkt-shugyokushu-0040				xo新玉の年は我が身に積れども消え行く物は庭の白雪	
+zkt-shugyokushu-0041		戀十首		なるる我我の各は谷ならで人のつらさのつらくも有哉	
+zkt-shugyokushu-0042				60君を我戀初しより名に愛て坂逢山は行かぬ日ぞなき	
+zkt-shugyokushu-0043				〓夢にだに逢見む〓とを祈るかなよるの衣を返す〓〓も	
+zkt-shugyokushu-0044				な。厭ふとも思初めてし紅のやしほの色は如何かへさむ	
+zkt-shugyokushu-0045				〓笹蟹のいとほしとだに聞えねば蜘手に物を思かひなし	
+zkt-shugyokushu-0046				濡衣をきると聞く社嬉しけれ變らぬ袖を厭つらさに	
+zkt-shugyokushu-0047				〓ちち何何ふらむ前の世の報にてこそ戀しかるらめ	
+zkt-shugyokushu-0048				一命こそ戀する人の限なれ逢ふてふ〓とを何と知らねば	
+zkt-shugyokushu-0049				つれなさを恨もはてじ逢初て後は思の增りもぞする	
+zkt-shugyokushu-0050				同じ世にあるかひもなき身なれども命計は哀なる哉	

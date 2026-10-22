@@ -1,0 +1,50 @@
+zkt-shugyokushu-0201		子日		春來ては子日の松に類ひつゝ憂身も人に引れましかば	
+zkt-shugyokushu-0202		霞		春霞印の杉をこめつればそことも見えず三輪の山本	
+zkt-shugyokushu-0203		爲		千年ふる千年の松の枝にゐて百色となく百千鳥かな	
+zkt-shugyokushu-0204		若菜		改まる春にしなれば人毎に年も若菜も摘にぞ有ける	
+zkt-shugyokushu-0205		殘雪		〓〓〓路路にはいつも消せぬ雪なれば冬の形見と見人も有じ	
+zkt-shugyokushu-0206		梅		一七飽なくに手折る袂の移香や散行く梅の形見なるべき	
+zkt-shugyokushu-0207		柳		ニ春春に降りかゝれども綠なる柳の眉は亂れざりけり	
+zkt-shugyokushu-0208		早族		武藏野の草葉にまじる早族をげに紫の塵かとぞ見る	
+zkt-shugyokushu-0209		櫻		〓花に他で遂に此世を背きなば吉野の山を栖にはせむ	
+zkt-shugyokushu-0210		春雨		さほ姫は睦月にくだる雨にてや春の色をば染始む寛	
+zkt-shugyokushu-0211		春駒		楚月のみまきにあるゝ春駒は秋の半や人にひかれむ	
+zkt-shugyokushu-0212		歸朋		〓時しもあれ屬歸る也こし方に花に優れる花や咲らむ	
+zkt-shugyokushu-0213		呼子鳥		〓呼子鳥霞の關に聲すなり過ぎ行く人を立ち止れとや	
+zkt-shugyokushu-0214		苗代		苗苗の種まく賤はかねてより秋の盛や先づ覺ゆらむ七	
+zkt-shugyokushu-0215				數數らであれ行く宿に獨ゐて心すみれの花を見る哉	
+zkt-shugyokushu-0216				へおしなべて澤邊に茂る杜若何を隔つる名には立らむ	
+zkt-shugyokushu-0217				一松は岸庭は水かと見ゆるかな藤なみかゝる宿の砌は	
+zkt-shugyokushu-0218				「花每に散る習ひこそ悲しけれ又山吹も惜むかひなし	
+zkt-shugyokushu-0219		幕春		諸人の惜むに止る今日ならば春にてのみや年の暮まし	
+zkt-shugyokushu-0220		夏十五首更衣		〓色色のひとへを雪も懷かしみ夏の衣にやがてする哉	
+zkt-shugyokushu-0221		卯花		な花花波波雪雪とさ見えし〓とは櫻のみかは	
+zkt-shugyokushu-0222		英		我宿のこずゑをはやす英こそ賀茂の社の惠なりけれ	
+zkt-shugyokushu-0223		郭公		〓計計り待つかひ有て郭公里なれぬ間の知べにもせよ	
+zkt-shugyokushu-0224		菖蒲		かあやめ草ふくべき隙も見えぬ哉慈茂れる宿の軒端は	
+zkt-shugyokushu-0225		早苗		〓草苗とる安のわたりの片嵐去年の刈田は寂しかり見	
+zkt-shugyokushu-0226		照射		でさを鹿の聲立て鳴秋ならばいかに照射の哀ならまし	
+zkt-shugyokushu-0227		五百度		梅雨の日をふる儘に水馴川水別し瀬々も面變りつゝ	
+zkt-shugyokushu-0228		魔橋		我宿に花橘を植ゑ置かむなからむ跡の忘れがたみに	
+zkt-shugyokushu-0229		蚊遺火		夕されや立出て凉むかひぞなき蚊遣火燻る賤が垣ねは	
+zkt-shugyokushu-0230		釜		〓ふふか登益びかふ背の間は秋の哀になる心ちして	
+zkt-shugyokushu-0231		氷室		かすべらぎの長閑き御代の徴とて夏も氷の消せざる覽	
+zkt-shugyokushu-0232		泉		冀〓水の岩間を酒る音聞けば掬ばぬ先に涼しかり見	
+zkt-shugyokushu-0233		迷		我〓ふ蓬の上にゐる見ればあだなる露も羨まれけり	
+zkt-shugyokushu-0234		荒和被		普より命のぶてふ例とてなごしの祓せぬひとぞなき	
+zkt-shugyokushu-0235				○とととはに秋の心になれる身は風の音にも驚かぬ哉	
+zkt-shugyokushu-0236		七夕		。ひこ星の妻迎舟けふこそは天の川風こぎ出でぬらむ	
+zkt-shugyokushu-0237		萩		住吉の遠里をのにきて見れば眞萩が枝に花咲にけり	
+zkt-shugyokushu-0238		女郎花		c0世を拾つる我墨染の袖ふれてをるも優しき女郞花哉	
+zkt-shugyokushu-0239		荻		o。佗人の宿には〓をうゑおかじ風吹く度に哀そひけり	
+zkt-shugyokushu-0240		薄		20を薄に吹く秋風は行く人を招きとめよと思しもせじ	
+zkt-shugyokushu-0241		刈萱		〓强ちになに亂るらむ刈萱のわきても風の吹かぬ物故	
+zkt-shugyokushu-0242		聞		10年をへて秋の野毎に匂へども若る人もなきふぢ袴哉	
+zkt-shugyokushu-0243		雁		noこし方を思ひ列ぬる時しもあれ折知顏に雁の鳴らむ	
+zkt-shugyokushu-0244		鹿		bo鹿の音を心にしめて聞く人や秋の哀を殊にしるらむ=	
+zkt-shugyokushu-0245		露		〓草木まで秋の哀を忍べばや野にも山にも露こぼる覽	
+zkt-shugyokushu-0246		霧		霧隱れ裾野の鹿の鳴くなべに外面の荻も音計りして	
+zkt-shugyokushu-0247		駒迎		一東路や秋の半にひく胸はみな望月の影にや有るらむ	
+zkt-shugyokushu-0248		月		隈もなく冴行く月を見る程や身の浮雲の晴增るらむ	
+zkt-shugyokushu-0249		槿		〓ささ思思はむ宿の垣ねにはたヾ槿を植うべかりけり	
+zkt-shugyokushu-0250		接衣		秋の夜を寢覺て聞けば菅原や伏見の里に衣うつなり	

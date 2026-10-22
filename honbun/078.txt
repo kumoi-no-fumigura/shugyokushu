@@ -1,0 +1,50 @@
+zkt-shugyokushu-3851		被忘後戀		忘らるゝ身をいかにせむ思しは此より戀の限也けり	
+zkt-shugyokushu-3852		互有恨戀		諸共に恨み〓〓ていざさらば其戀路より思ひ歸らむ	
+zkt-shugyokushu-3853		雜晩更冬燈		消え遺らで壁にほのめく燈に霜よの鐘を起出ぞ聞く	
+zkt-shugyokushu-3854		幕山松風		出でやらぬ月に心や通ふらむ暮れ行く山の茶の松風	
+zkt-shugyokushu-3855		雨中籠竹		簑れにも葉末こまかにさわぐなり籬の竹の雨の夕幕	
+zkt-shugyokushu-3856		巖苦埋路		。哀にもかよふ人なき山べかな苔に埋るゝ岩のかけ路	
+zkt-shugyokushu-3857		浦鶴鳴月		一誰か聞く月の出汐の和歌の浦に蘆べ露けきたづの諸聲	
+zkt-shugyokushu-3858		縣中山路		ニ旅旅空空哀づづくと人とはい唯暮かゝる山路也けり	
+zkt-shugyokushu-3859		野外旅宿		野べの露に草の枕を朝立てば袖に留るは淚なりけり	
+zkt-shugyokushu-3860		海路眺望		歸る腫の霞にかける玉章を濱名の橋に詠めつるかな	
+zkt-shugyokushu-3861		山家流水		何となくたより始しき山河を麓の里にせき流すかな	
+zkt-shugyokushu-3862		山家鳥馴		山里にさびしも住みける古は衣に巢くふ鳥も有けり	
+zkt-shugyokushu-3863		深夜夢覺		〓鐘の音よ〓は昔を思ひねの夢の枕に聞くぞかなしき	
+zkt-shugyokushu-3864		田家懷舊		〓此のほどは昔の君の跡ぞかしとば田の里の秋の夕幕	
+zkt-shugyokushu-3865		朝假無常		〓今朝は最ど露ぞこぼるヽ鳥べ山よはの煙は有明の月	
+zkt-shugyokushu-3866		薄幕述懷		0幕かゝる空に物思ふ人は皆身の浮雲に風ぞのどけき	
+zkt-shugyokushu-3867		社頭祝言		「嬉しくも佛の道と君が代と守る日吉の影ぞくもらぬ	
+zkt-shugyokushu-3868				「音羽山ふかき霞をわけ入れば大津の宮ぞ春の花ぞの	
+zkt-shugyokushu-3869				春來ればうちでの濱の濱風に長柄の山を志賀の山越	
+zkt-shugyokushu-3870				花に飽で花を哀と思ひきぬ散習ひきて我になしつゝ	
+zkt-shugyokushu-3871				以〓月に砲で寢待の空を待からに來む世の間を思るゝ哉	
+zkt-shugyokushu-3872				吉吉山そもむつましき詠かな花待つ蜂にかゝる白雲	
+zkt-shugyokushu-3873				から浮雲をいとふ心もうれしきは月待つ山の峰の松風	
+zkt-shugyokushu-3874				郭公まつに來鳴かぬ聲なれば常磐の杜に聞く〓ともなし	
+zkt-shugyokushu-3875				かん我我又はつまつに嬉しき命とて老曾の森に鳴〓ともなし九	
+zkt-shugyokushu-3876				〓五月雨の雲より出づる郭公はれたる物はなが聲の色	
+zkt-shugyokushu-3877				一今ぞ見る雲立騒ぐ秋の空は風より月のいでける物を	
+zkt-shugyokushu-3878				づつひに思ふ心の末の悲しきは月見る西の山のはの雲	
+zkt-shugyokushu-3879				〓〓後の世に迷はじ今は夕聞の空さりげなく出る月影	
+zkt-shugyokushu-3880				築ておろす案の紅葉の紅を袖より外の物とやは見る	
+zkt-shugyokushu-3881				1政出よ月浮世に住まめ山のはを心の外の雲とやは見る	
+zkt-shugyokushu-3882				諸共に鹿こそは鳴け暮の秋の紅葉ちる山の末の嵐に	
+zkt-shugyokushu-3883				皆むら柴にきらず立つなり櫻狩花ちる野べの春の曙七	
+zkt-shugyokushu-3884				mよしさらば涙に疎き身也せば袖には月の宿ざらまし	
+zkt-shugyokushu-3885				九指行ふに眞の言をならはずば心に月の宿らざらまし	
+zkt-shugyokushu-3886				○散りつもる庭の紅葉に霜さえて曉は月の光なりけり	
+zkt-shugyokushu-3887				一0月影に雪かき分て見る梅の白きにも尙そむ心かな	
+zkt-shugyokushu-3888				5月月の風になびく有明にうちあはせたる鐘の音かな	
+zkt-shugyokushu-3889				「『"と思知りぬる槇の戶にさし合せたる鳥の聲かな프	
+zkt-shugyokushu-3890				p色深きつたはふ跡の露しげみ心ぼそきはうつの山道	
+zkt-shugyokushu-3891				昭都出でゝ入る日の末は山もなし思ひ盡せぬ浪の上哉	
+zkt-shugyokushu-3892				如世の中の人の心を思ふ空の雲かきわくる山のはの月	
+zkt-shugyokushu-3893				〓ロははよよ世世の人の擧動は時雨るゝ秋の山のはの雲	
+zkt-shugyokushu-3894				〓o山里に露置萩の濡色を見よかし人のとひだにもこぬ	
+zkt-shugyokushu-3895				non秋の野を移せばませに露深し鳴の鹿さへ聞心ちして	
+zkt-shugyokushu-3896				秋ふくる木の葉の色に待つ時雨一廻りせば山の下風	
+zkt-shugyokushu-3897				一思思たたあだなる物は人の命野分の風に萩の上露	
+zkt-shugyokushu-3898				一ふしみ山鹿の音おろす夕嵐に稻葉が末に鶉なくなり	
+zkt-shugyokushu-3899				三ニョ柴の戶の垣ねの軒の程狹み割なくあさる鴨の羽掻	
+zkt-shugyokushu-3900				〓神無月雲にあはれを吹きそへて梢にあまる夕嵐かな	
