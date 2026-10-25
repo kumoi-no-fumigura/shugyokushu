@@ -19,7 +19,7 @@ zkt-shugyokushu-2668				日にそへて時雨の雲に成行くや秋のみ空�
 zkt-shugyokushu-2669				秋のかへる空のけしきぞ哀なる梢の色は庭に萎れて	
 zkt-shugyokushu-2670		冬		草晩と我が袖の上に初時雨秋見し色の名殘なれとや	
 zkt-shugyokushu-2671				秋の花の獨殘れる菊のませも移ろふ色になるぞ想き	
-zkt-shugyokushu-2672				池に來て見なるゝ意の聲す也月影氷る冬の夜な〓〓	
+zkt-shugyokushu-2672				池に來て見なるゝ意の聲す也月影氷る冬の夜な／＼	
 zkt-shugyokushu-2673				〓なな須須の關屋の夕波に袖姿れ行くよはぞ悲しき	
 zkt-shugyokushu-2674				多の間の雪げの空の絕間より〓くぞもるゝ星の光は	
 zkt-shugyokushu-2675				〓いか計越路に書の積るらむ土につき行く庭の松が枝	

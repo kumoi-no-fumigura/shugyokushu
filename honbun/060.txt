@@ -29,7 +29,7 @@ zkt-shugyokushu-2978				稍ふく木の葉も風も音たえて時雨にかふ�
 zkt-shugyokushu-2979				神無月いくかもあらぬ夕づく夜光につゝく初雪の庭	
 zkt-shugyokushu-2980				爾かくは中々に唯ふらであれな処を待たぬ初雪の庭	
 zkt-shugyokushu-2981				大大けけ日日ごろは白く見えざりき都も今ぞ初雪の庭	
-zkt-shugyokushu-2982				〓〓賀賀の山麓を廻るしろ襲ねかつ〓〓見する初雪の庭	
+zkt-shugyokushu-2982				〓〓賀賀の山麓を廻るしろ襲ねかつ／″＼見する初雪の庭	
 zkt-shugyokushu-2983				〓深山路をわくる心は淺りれどよそには深き初雪の庭	
 zkt-shugyokushu-2984				〓思遺る山の奥こそ知られぬれいつしか深き初雪の庭	
 zkt-shugyokushu-2985				神神いいに兼て嬉しと思ふらむみ雪積べき初雪の庭	

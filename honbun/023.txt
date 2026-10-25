@@ -4,7 +4,7 @@ zkt-shugyokushu-1103				〓桃の花その紅のあまりには彌生の空を�
 zkt-shugyokushu-1104				年年へへ咲咲波のいかなれば松の梢に懸り初めけむ	
 zkt-shugyokushu-1105				〓今更にかへりすめとや輩つむ我が古里の春の夕ぐれ	
 zkt-shugyokushu-1106				1年を經て知られむ程の人もがなゐでの山吹散果ぬ共	
-zkt-shugyokushu-1107				ななか〓〓に物の哀を知りはてむ人には見せじ春の曙	
+zkt-shugyokushu-1107				ななか／＼に物の哀を知りはてむ人には見せじ春の曙	
 zkt-shugyokushu-1108				い子子なくかた岡山の曙に草の戶ざしを問ふ人もがな	
 zkt-shugyokushu-1109				〓春の野に揚る雲雀の心をば空にもえこそ量ざりけれ	
 zkt-shugyokushu-1110				ななつかしき春の野澤の杜若色に色ある夕まぐれかな	

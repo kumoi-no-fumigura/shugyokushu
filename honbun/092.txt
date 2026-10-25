@@ -3,7 +3,7 @@ zkt-shugyokushu-4552		戀		〓と云心の人に無かりせばあるかひも�
 zkt-shugyokushu-4553				〓〓にに斯に由なき道に入にけり逢ぬ恨とあふ嬉しさと三	
 zkt-shugyokushu-4554		曉嵐に鐘の音過ぎて		。夢はいかに嵐に鐘の音過ぎて誰あみだ佛の聲聞ゆ也	
 zkt-shugyokushu-4555		寄海水朝		〓思知る浮寢の床の朝霧にたが行舟のよそになるらむ	
-zkt-shugyokushu-4556				coほの〓〓と波に雌るゝ朝霧にまぜて吹こす磯の松風	
+zkt-shugyokushu-4556				coほの／″＼と波に雌るゝ朝霧にまぜて吹こす磯の松風	
 zkt-shugyokushu-4557		寄山暮		o〓深深〓我〓よりや知るべせむたぐひに迷ふ秋の夕暮三	
 zkt-shugyokushu-4558				p0松風に雲うちなびく夕暮の空に物おもふ秋の山ざと	
 zkt-shugyokushu-4559				ね秋の山によそなる松の梢より袂にかへる夕時雨かな-	

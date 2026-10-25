@@ -27,7 +27,7 @@ zkt-shugyokushu-2126				三人ならば恨もすべしいかにせむ我をす�
 zkt-shugyokushu-2127				神神いいにうしや北野の馬場ゆふ埓の外なる人の心は	
 zkt-shugyokushu-2128				歎くとよ人の心は佛だに思ひ兼てぞ捨てたまひにし	
 zkt-shugyokushu-2129				我命いつ迄とだに知られなば殘る〓となく世をば捨てむ	
-zkt-shugyokushu-2130				惡也只けふ〓〓と思へかし知も知らぬも今幾日かは	
+zkt-shugyokushu-2130				惡也只けふ／＼と思へかし知も知らぬも今幾日かは	
 zkt-shugyokushu-2131				〓〓拂拂へ何となき塵の身におくを家を出にし山颪の風	
 zkt-shugyokushu-2132				た胸の月を心ばかりに磨き來て我も光を見ぬぞ悲しき	
 zkt-shugyokushu-2133				〓〓なれし友は宛ら夢のよを獨殘りて見るぞかひなき	

@@ -26,7 +26,7 @@ zkt-shugyokushu-1275				移移ひし人の現を夢と見てねぬ夜の數の�
 zkt-shugyokushu-1276				千千々に思ふ涙の露の碎けつゝ寢ぬ夜の床に玉を敷哉	
 zkt-shugyokushu-1277				〓武夫は打も寢ずとや思覽戀する夜はの床も有る世に	
 zkt-shugyokushu-1278				おぬぬ夜ののはは幾らか積ぬる數へても見よ相の端書	
-zkt-shugyokushu-1279				すす〓〓を〓ふ涙と思ひ知れ薄く書きつる今日の玉章	
+zkt-shugyokushu-1279				すす／＼を〓ふ涙と思ひ知れ薄く書きつる今日の玉章	
 zkt-shugyokushu-1280		雜十五首あかつきは		一秋はなほ妻よぶ鹿を聞き明す其暁のあかしなりけり	
 zkt-shugyokushu-1281				養城の神の心を思ふかな明け行く空や侘しかるらむ	
 zkt-shugyokushu-1282				盡もせず物思ふ〓とは絕えね共今ひときつゝ有明の空	

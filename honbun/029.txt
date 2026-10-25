@@ -23,7 +23,7 @@ zkt-shugyokushu-1422				立ここるるははいづこも變らねど哀深き�
 zkt-shugyokushu-1423				晴れやらぬ心のすゑも哀なりながむる宿の朝霧の空	
 zkt-shugyokushu-1424		鹿五首		衰知る秋になりぬと思ふより先待るゝはさを鹿の聲	
 zkt-shugyokushu-1425				山里のさを鹿の音の無りせば心なき身と成果なまし	
-zkt-shugyokushu-1426				秋の鹿われも〓〓と妻戀ひむその淚をばよその袂に	
+zkt-shugyokushu-1426				秋の鹿われも／＼と妻戀ひむその淚をばよその袂に	
 zkt-shugyokushu-1427				〓〓〓〓〓此では鹿の鳴音に袖を任せじ	
 zkt-shugyokushu-1428				山ざざのたい獨寢に夢覺めて鹿も鳴くなり庭の松風	
 zkt-shugyokushu-1429		接衣五首〓		100衣接音にも色のあれば社只よそに聞く身には有らめ	

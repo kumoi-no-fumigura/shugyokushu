@@ -24,7 +24,7 @@ zkt-shugyokushu-0123				心入相の鐘の響を聞くからに我心さへつ�
 zkt-shugyokushu-0124				心世を渡る我身のさまは弱けれど倒れぬ物は心也けり	
 zkt-shugyokushu-0125				0世中に面もなくて隠れなば恨ばかりやなほ殘るべき	
 zkt-shugyokushu-0126				〓我が心過ぎにし方を忍ぶらし思出れば打泣かれつヽ	
-zkt-shugyokushu-0127				養を重ねやよや〓〓と語へどかひ社無れ山のはの月	
+zkt-shugyokushu-0127				養を重ねやよや／＼と語へどかひ社無れ山のはの月	
 zkt-shugyokushu-0128				說置ける法を賴まぬ身也せば斯る心の起らましやは	
 zkt-shugyokushu-0129				我願ふ心の花し開きなば佛のみにやならむとすらむ	
 zkt-shugyokushu-0130				物思ふ類は又もあらしほの鹽の八百會神や知るらむ	

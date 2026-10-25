@@ -24,7 +24,7 @@ zkt-shugyokushu-2423				物物耻耻耻思思る人はとに斯に心と身と�
 zkt-shugyokushu-2424				た貧きは誰が各なれや物を持たば人にのみ社取せたき身の	
 zkt-shugyokushu-2425				〇有らせばやと思人のみ失果てあらざれかしと思人のみ	
 zkt-shugyokushu-2426				一昨日今日袖を離れて散る露は昔におつる淚なりけり	
-zkt-shugyokushu-2427				〓をり〓〓に厭ふ物から情あるは花さそふ風月に浮雲	
+zkt-shugyokushu-2427				〓をり／＼に厭ふ物から情あるは花さそふ風月に浮雲	
 zkt-shugyokushu-2428				一善惡を思知る人ぞ難波淂とてもかくても世に有難き	
 zkt-shugyokushu-2429				〓東路や幾度ふじの草枕むすぶ日數をかぞへわぶらむ	
 zkt-shugyokushu-2430				一如何にして二つの山に家ゐせむ春はみ吉野秋は嫩捨	
@@ -42,7 +42,7 @@ zkt-shugyokushu-2441				短有か無かあな儚なやの例哉反古やく灰�
 zkt-shugyokushu-2442				古の三のみ室ぞしのばるゝ十五大寺の跡を見るにも	
 zkt-shugyokushu-2443				〓これやさは高野の山に住む心圈伽振る鈴の夕幕の聲	
 zkt-shugyokushu-2444				かひえの山登義や近く成ぬらむよはに冴たる問答の聲	
-zkt-shugyokushu-2445				30人人見見もも我身を見もこはいかに南無あみだ佛〓〓	
+zkt-shugyokushu-2445				30人人見見もも我身を見もこはいかに南無あみだ佛／＼	
 zkt-shugyokushu-2446		序品如是我聞		一我聞くと傳ふる人の微りせば爭で佛の法を知らまし	
 zkt-shugyokushu-2447				一佛には終に成べき分にしあれば法の花をし我聞くとして	
 zkt-shugyokushu-2448				我聞きし鷲のみ山の言の葉は鶴の林の後にこそちれ	

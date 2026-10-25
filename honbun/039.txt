@@ -13,7 +13,7 @@ zkt-shugyokushu-1912				年の暮て我世もふけぬ山のはに隱れな果�
 zkt-shugyokushu-1913				に身にとまる年をも人は送りけり順はれぬべし法の理	
 zkt-shugyokushu-1914		初戀		一戀やせしながめは同じ詠にて昨日にかはる夕暮の空	
 zkt-shugyokushu-1915				我が戀は心づくしに行く舟のけふ溜ぎ初むる淀の曉	
-zkt-shugyokushu-1916				君君宿宿〓〓のかならむ今日吹初る戀の初風	
+zkt-shugyokushu-1916				君君宿宿／＼のかならむ今日吹初る戀の初風	
 zkt-shugyokushu-1917				詠つる月は板間にもりそめて心の宿ぞ荒れ初めぬる	
 zkt-shugyokushu-1918				有るかなきか心の末ぞ哀なる二日の月に雲の懸れる	
 zkt-shugyokushu-1919		忍戀		〓〓暫暫し我戀路にもかくしてむ尙厭はれぬ末も耻かし	

@@ -15,7 +15,7 @@ zkt-shugyokushu-3514				〓夜はにたく蚊火やの煙立添ひて朝霧深�
 zkt-shugyokushu-3515				ニ長月も幾有明に成ぬらむ淺芽の霜のいとゞさびゆく	
 zkt-shugyokushu-3516				00秋の別哀れ悲しき垣ねかな音せし荻も和にうづみぬ	
 zkt-shugyokushu-3517				一一秋の爲かひなき月の契かな歸る空には影だにもなし	
-zkt-shugyokushu-3518				我が物と詠め〓〓て秋のなど月に誓ひて立歸るらむ	
+zkt-shugyokushu-3518				我が物と詠め／＼て秋のなど月に誓ひて立歸るらむ	
 zkt-shugyokushu-3519				我が物と月を詠めて秋のなど間に迷ひて立歸るらむ	
 zkt-shugyokushu-3520		冬二十首		極棋のやに秋も暮れぬる夜はの夢を早晩殘す初時兩哉	
 zkt-shugyokushu-3521				〓枯れはてぬ〓の上葉の風の音に又たち蹄る秋の夕暮	

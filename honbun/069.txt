@@ -40,7 +40,7 @@ zkt-shugyokushu-3439		左方權大納言忠良前大僧正慈圓定家朝臣右�
 zkt-shugyokushu-3440				思事をかくともいはじ水莖の跡かき流す神に任せて	
 zkt-shugyokushu-3441				色に出る我言の葉を忍兼て散すも風の名こそ惜けれ	
 zkt-shugyokushu-3442				ないかにせむ稻葉の風の片靡き眞葛にうつる秋の夕幕	
-zkt-shugyokushu-3443				〓なれ〓〓て夢路にだにも男山よも長月の末の秋かぜ	
+zkt-shugyokushu-3443				〓なれ／＼て夢路にだにも男山よも長月の末の秋かぜ	
 zkt-shugyokushu-3444				〓秋よ今はやみに別をいかにせむ心ぼそきは有明の月a	
 zkt-shugyokushu-3445				〓〓と〓と冬と行きあふ坂の關守は露の袂に霜やおくらむ	
 zkt-shugyokushu-3446				0物思へば秋習はしの露の袖にほさで時雨に洗ふ頃哉	

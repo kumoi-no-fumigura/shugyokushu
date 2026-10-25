@@ -14,7 +14,7 @@ zkt-shugyokushu-0163				〓荒磯海の浦吹風に非ねどもやむ時もな�
 zkt-shugyokushu-0164				石石潟云にかひなき世中のつらさに堪ぬ身とや成なむ	
 zkt-shugyokushu-0165				0〓我身をば何にか今は喩べき長柄の橋も〓とふりにけり	
 zkt-shugyokushu-0166				三春山に世を鶯のこゑなくば友なきねをや獨なかゝし	
-zkt-shugyokushu-0167				戀しとも誰かは云むと思にも只つく〓〓と音社泣るれ	
+zkt-shugyokushu-0167				戀しとも誰かは云むと思にも只つく／″＼と音社泣るれ	
 zkt-shugyokushu-0168				さぞといはヾ誠にさぞと跡打てなやそやと云人だにも無	
 zkt-shugyokushu-0169				ささととは喞つ方なき身にしあれば只過たぬ世をぞ恨る	
 zkt-shugyokushu-0170				身の憂さを思ひ宥むるかひもなく騒出でぬる我淚哉	
@@ -30,7 +30,7 @@ zkt-shugyokushu-0179				「身身にはさらの住ひも由なしや只さは�
 zkt-shugyokushu-0180				四人毎に打戯ぶれし氣色にも見えけむ物を今の氣色は	
 zkt-shugyokushu-0181				「何となく有ります〓とと思しを頓て賊の道になりぬる	
 zkt-shugyokushu-0182				我賴む日吉の影は奧山の柴の戶迄もさゝざらめやは	
-zkt-shugyokushu-0183				ハムあさくらの返す〓〓も祈る哉神の惠を賴む身なれば	
+zkt-shugyokushu-0183				ハムあさくらの返す／″＼も祈る哉神の惠を賴む身なれば	
 zkt-shugyokushu-0184				かうしとのみ思て社は出ぬとも尙故〓や戀しかるべき	
 zkt-shugyokushu-0185				cm2諸共に哀いつ迄なづさひて斯る浮世に住まむとす覽	
 zkt-shugyokushu-0186				一"何事を待つにか今は斯るべき憂身は藤の末葉なれ共	

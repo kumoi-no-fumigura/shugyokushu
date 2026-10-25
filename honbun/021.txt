@@ -44,7 +44,7 @@ zkt-shugyokushu-1043		冬初冬		三今日よりは冬に成ぬとつげに來�
 zkt-shugyokushu-1044		時雨		一一曇曇り山廻りする絶間にも尙時雨るゝは涙なりけり	
 zkt-shugyokushu-1045		霜		草枕露に霜をばおきかへてかはく間もなき旅衣かな	
 zkt-shugyokushu-1046		彼		空のうへに被たばしる旅人は互によその哀をぞしる	
-zkt-shugyokushu-1047		雪		た草も木も同花こそ咲にけれおい〓〓雪のよそめ也見	
+zkt-shugyokushu-1047		雪		た草も木も同花こそ咲にけれおい／＼雪のよそめ也見	
 zkt-shugyokushu-1048		千鳥		七月影によさの浦波ふけ行けば松の風さへ千鳥鳴く也	
 zkt-shugyokushu-1049		寒蘆		〓深き江に茂りし物を難波潟かれては聞きし産の浦風	
 zkt-shugyokushu-1050		氷		に波の音は夜はの氷にとぢられて梢に殘る志賀の浦風	

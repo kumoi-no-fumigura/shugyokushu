@@ -19,7 +19,7 @@ zkt-shugyokushu-2218				東路や旅行く胸も分わびぬ刈る人なしみ�
 zkt-shugyokushu-2219				誰にとはむ秋の野もせに置露は鹿と蟲との鳴淚かは	
 zkt-shugyokushu-2220				主やたれ霜に枯行く野べの草に雪待頃の岡のべの里	
 zkt-shugyokushu-2221				か野べに續く冬の山本下過て群ぬる鳥もゐる空ぞなき	
-zkt-shugyokushu-2222		海		ほの〓〓と霞の袖の紅にくやるは白き和歌の浦なみ	
+zkt-shugyokushu-2222		海		ほの／″＼と霞の袖の紅にくやるは白き和歌の浦なみ	
 zkt-shugyokushu-2223				〓今ぞ知る行へに迷ふ渡つ海の果なきはては霞也けり	
 zkt-shugyokushu-2224				が波の上に霞を分て舟ぞ行くやゝ山風の吹にまかせて	
 zkt-shugyokushu-2225				ニ夏の夜は短きものを天雲の波にはなれて苦の下ぶし	

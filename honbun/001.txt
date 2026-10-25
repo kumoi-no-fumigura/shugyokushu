@@ -11,7 +11,7 @@ zkt-shugyokushu-0010				咲き咲す散につけても苦しきは花社御代�
 zkt-shugyokushu-0011		郭公十首		來來くやと知花垣はしたれどもまだ音もせず山郭公	
 zkt-shugyokushu-0012				セ七郭公初音を聞くや山賤のあやしき身にもとり所なる	
 zkt-shugyokushu-0013				〓時時まだ里なれぬ忍び音を聞くらむ人の心いかにぞ	
-zkt-shugyokushu-0014				なん〓〓に何か語らふ時鳥もの忘れたき夜はの一聲	
+zkt-shugyokushu-0014				なん／＼に何か語らふ時鳥もの忘れたき夜はの一聲	
 zkt-shugyokushu-0015				〓郭公一聲にこそ尋ねつれ名殘なしとて何かうらみむ	
 zkt-shugyokushu-0016				でふり積る雪とや見まし卯花を山郭公來鳴かざりせば	
 zkt-shugyokushu-0017				山山に家居しすれば郭公待つも待ぬも同じ音ぞ聞く	
@@ -40,7 +40,7 @@ zkt-shugyokushu-0039				o。天の戶はまだ明ぬ間に孰くより降出つ�
 zkt-shugyokushu-0040				xo新玉の年は我が身に積れども消え行く物は庭の白雪	
 zkt-shugyokushu-0041		戀十首		なるる我我の各は谷ならで人のつらさのつらくも有哉	
 zkt-shugyokushu-0042				60君を我戀初しより名に愛て坂逢山は行かぬ日ぞなき	
-zkt-shugyokushu-0043				〓夢にだに逢見む〓とを祈るかなよるの衣を返す〓〓も	
+zkt-shugyokushu-0043				〓夢にだに逢見む〓とを祈るかなよるの衣を返す／″＼も	
 zkt-shugyokushu-0044				な。厭ふとも思初めてし紅のやしほの色は如何かへさむ	
 zkt-shugyokushu-0045				〓笹蟹のいとほしとだに聞えねば蜘手に物を思かひなし	
 zkt-shugyokushu-0046				濡衣をきると聞く社嬉しけれ變らぬ袖を厭つらさに	

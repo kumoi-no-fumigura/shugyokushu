@@ -44,7 +44,7 @@ zkt-shugyokushu-2193		風		つれもなき人の夜枯に習へかし花に待�
 zkt-shugyokushu-2194				かははぞぞ心のどかに眺めつる花ちりて後の春の山風	
 zkt-shugyokushu-2195				0圓居して暑さを厭ふ夏山の木の下風にしく物ぞなき	
 zkt-shugyokushu-2196				〓いつも吹く風とは風も思ふなよ荻の上葉に秋の夕暮	
-zkt-shugyokushu-2197				渡よりかつ〓〓袖に露ちりて時しもしるき秋の初風	
+zkt-shugyokushu-2197				渡よりかつ／″＼袖に露ちりて時しもしるき秋の初風	
 zkt-shugyokushu-2198				「木葉落て染べき色もなしとてや時雨の雲を返す松風	
 zkt-shugyokushu-2199		雨		靑柳の糸に玉ぬく春雨の雲になり行く夕がすみかな	
 zkt-shugyokushu-2200				梅のはな霞のくもの春雨にぬれてぞにほふ夕暮の空	

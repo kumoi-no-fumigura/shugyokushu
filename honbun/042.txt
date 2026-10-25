@@ -35,7 +35,7 @@ zkt-shugyokushu-2084				一月の前に時雨過ぎぬる天雲を拂ふなら�
 zkt-shugyokushu-2085				〓芳野山春吹く風を花と見て秋待露の身のはかなさよ	
 zkt-shugyokushu-2086				ユタまぐれ〓立つ澤の忘水思ひいづとも袖ぞぬれなむ	
 zkt-shugyokushu-2087				深草の里に鶉の夕まぐれふさで果べき秋のよはかは	
-zkt-shugyokushu-2088				ななか〓〓に空に思ぞつきにける何事もなき秋の夕暮	
+zkt-shugyokushu-2088				ななか／＼に空に思ぞつきにける何事もなき秋の夕暮	
 zkt-shugyokushu-2089				衰なり門もなき庵のませの內にこぬ人まねく薄一本	
 zkt-shugyokushu-2090				〓吹迷風に木葉の何としてあられぬ世にも尙あくる覧	
 zkt-shugyokushu-2091				五五百雨に山郭公こゑぬれて軒の菖蒲の色になくなり	

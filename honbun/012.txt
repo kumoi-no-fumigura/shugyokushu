@@ -36,7 +36,7 @@ zkt-shugyokushu-0585				col迷ひなむ木々の梢のうきぞとは打見度�
 zkt-shugyokushu-0586				ユ入る月よ隠れな果てそ世の中をいとふ心は有明の空	
 zkt-shugyokushu-0587				一朝夕に梢にすだく村鳥の手飼ひになるゝみ山邊の里	
 zkt-shugyokushu-0588				一ささ片片山岸のみゝづくもいかゞ聞きなす峰の松風	
-zkt-shugyokushu-0589				山田みみかか〓〓友となりにけりさ夜ふけ方の梟の聲	
+zkt-shugyokushu-0589				山田みみかか／＼友となりにけりさ夜ふけ方の梟の聲	
 zkt-shugyokushu-0590				粟ぐりの色づく秋の山風に梢をちらぬ木の葉猿かな	
 zkt-shugyokushu-0591				ねいいにせむ友社なけれ山の犬聲怖しきよはの寐覺に	
 zkt-shugyokushu-0592				〓〓松が枝に枕定むるかもじヽのよそ目あだなる我庵哉	

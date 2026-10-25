@@ -8,7 +8,7 @@ zkt-shugyokushu-1557				極樂へまだ我が心行きつかず羊の步しば�
 zkt-shugyokushu-1558				ル其心ありもしぬべき我身かはなど此國に虎の無らむ	
 zkt-shugyokushu-1559				を思ひとりて熊に宿かる山伏の心の底は凉しかるらむ	
 zkt-shugyokushu-1560				東京やいくその山を越えぬらむ野原篠原駒に任せて	
-zkt-shugyokushu-1561				山深みかつ〓〓ぬるゝ袂かな案のひばらの猿の里聲	
+zkt-shugyokushu-1561				山深みかつ／″＼ぬるゝ袂かな案のひばらの猿の里聲	
 zkt-shugyokushu-1562				ニ詠れば哀もさ夜も更けにけり賤が資屋の犬の聲まで	
 zkt-shugyokushu-1563				三れも夢尙睡までありぬべし以猪の床に身を任す共	
 zkt-shugyokushu-1564				肥鹿音音山の奥よりさそひ來て籬の萩につたふ秋風	
@@ -27,7 +27,7 @@ zkt-shugyokushu-1576				恐びづま忍びなれにし心こそやがて眞の�
 zkt-shugyokushu-1577				好しくも佛に近くなれにける心に悟る身とぞ成ぬる	
 zkt-shugyokushu-1578				が目を閉ちて息を數ふる心には御法計りの殘る也けり	
 zkt-shugyokushu-1579				ユひえの山雪の窓うつ物やなに見殘す法も嵐なりけり	
-zkt-shugyokushu-1580				ニ品々の人の心を思ふとてさま〓〓になる我が心かな	
+zkt-shugyokushu-1580				ニ品々の人の心を思ふとてさま／″＼になる我が心かな	
 zkt-shugyokushu-1581				ごいつか我れ幾らの餐現して道より道に知べをもせむ	
 zkt-shugyokushu-1582				うきながら心たわまで長へぬ法の驗を賴むしるしに	
 zkt-shugyokushu-1583				是是さは憂身を頓て佛ぞと心えつべき心ちこそすれ	
@@ -39,7 +39,7 @@ zkt-shugyokushu-1588				なめぐり逢ふ始終の行へかなかしまの宮�
 zkt-shugyokushu-1589				〓をしほ山松に千年を宿しおきて末も遙けき宮の內哉	
 zkt-shugyokushu-1590				〓忍びこし昔を今に三笠山のどけかるべき天の下かな	
 zkt-shugyokushu-1591				ニゑでに吹くかもの川風さ夜更けて心に籠る朱の玉垣	
-zkt-shugyokushu-1592				石石水流久しき天皇の千代のみかげは神のまに〓〓	
+zkt-shugyokushu-1592				石石水流久しき天皇の千代のみかげは神のまに／＼	
 zkt-shugyokushu-1593				神風や御裳濯川の末の波昔の瀨にも立ちかへるかな	
 zkt-shugyokushu-1594		秋日詣住吉社詠百首和歌雜五十首		法の如く道の糸をくりしかど尙みだれじな住吉の神	
 zkt-shugyokushu-1595				法のはな散りし筵にのぞみてや光をましゝ住吉の神	
