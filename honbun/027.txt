@@ -1,50 +1,50 @@
-zkt-shugyokushu-1301				一吉野山花を等ぬる人は皆わが類ひとや我を見るらむ	
-zkt-shugyokushu-1302				ニ咲初むる花の梢を眺むれば雪になりゆく三吉野の山	
-zkt-shugyokushu-1303				山櫻匂はぬ程の白雲はいつかはよその目にも懸りし	
-zkt-shugyokushu-1304				花花ゑにいとふ物まで詠むかな隔つる霞散らす山風	
-zkt-shugyokushu-1305				見る人の心にかゝる物やなに春のやよひの白川の雲	
-zkt-shugyokushu-1306				外はおはず宿の物とは九重の御階の花の盛のみこそ	
-zkt-shugyokushu-1307				〓待つおもひ惜む歎のひまにたい哀ほどなき花盛かな	
-zkt-shugyokushu-1308				〓山櫻思ふあまりに世にふれば花こそ人の命なりけれ	
-zkt-shugyokushu-1309				〓春の花詠のる儘の心にて幾程もなき世をすごさばや	
-zkt-shugyokushu-1310				0主主ふ花ならね共咲ぬれば我物とこそ覺えざりけれ	
-zkt-shugyokushu-1311				「眺むれば心もおはず山櫻うき世の外の花とこそ見れ-	
-zkt-shugyokushu-1312				春をへて花を哀れと思ひ知る心の宿はみよし野の山	
-zkt-shugyokushu-1313				吉野山此住ひにぞ思知る憂身ならずば花を見ましや	
-zkt-shugyokushu-1314				筑波山繁き梢を押なべてさながら花と思はましかば	
-zkt-shugyokushu-1315				花の名を春とは云む山里に花無りせば春を見ましや	
-zkt-shugyokushu-1316				花花色色尙濃からまし匂ふ枝に山郭公据て見たらば	
-zkt-shugyokushu-1317				故〓と思ひしかども花故に歸住む身となりぬべき當	
-zkt-shugyokushu-1318				ふよしの山花にかさなる花なれや櫻が枝にかゝる白雲	
-zkt-shugyokushu-1319				かあくがれて多くの花を見しか共尙山里の色は有けり	
-zkt-shugyokushu-1320				み身のうさに思よそへて眺むれどのかぬは花の情也是	
-zkt-shugyokushu-1321				花ゆゑに問ひ來る人の別まで思へば悲し春の山かぜ	
-zkt-shugyokushu-1322				雲に紛ふ高嶺の花の俤は散らで心にかゝるなりけり	
-zkt-shugyokushu-1323				花に吹く春のやま風にほひ來て心まよはす曙のそら	
-zkt-shugyokushu-1324				汀にもあらぬ櫻の枝にさへさヾ波よする志賀の山風	
-zkt-shugyokushu-1325				風わたる梢も道も春ながら雪のみ分くる志賀の山越	
-zkt-shugyokushu-1326				風を痛み山こぐ我は舟なれや花の白波分て來つれば	
-zkt-shugyokushu-1327				山櫻をしまぬ人もありぬべし風の心を我になしつゝ	
-zkt-shugyokushu-1328				ハ〓風に眺めし秋は花故に厭ふべしとは思はざりしを	
-zkt-shugyokushu-1329				みる野の花の梢に誘はれてあだに散り來る春の山風	
-zkt-shugyokushu-1330				00ののにに幾重錦をふきつらむ花散る春の小初瀨の山	
-zkt-shugyokushu-1331				。花の散る吉野の奧の寒き哉空に知らるゝ雪と見る迄	
-zkt-shugyokushu-1332				〓櫻花をしみ兼ねたる夕されは涙も風に散る心ちして	
-zkt-shugyokushu-1333				co山高み雲に紛へて見る花の散るは晴ぬる心ち社すれ	
-zkt-shugyokushu-1334				〓山里の峯の白雲ちりぬれば花見る人も又晴れにけり	
-zkt-shugyokushu-1335				0°のの散散りかゝれるを便にて流れぬ影をながす山水	
-zkt-shugyokushu-1336				可可しやえぞが千島の春の花詠る人もなくて散なむ	
-zkt-shugyokushu-1337				toみ古野の外山の花は散りにけり奥の梢や盛なるらむ	
-zkt-shugyokushu-1338				Noうつろへど人の心の花は尙見えせぬ色に慰みもなし	
-zkt-shugyokushu-1339				加斯計りえ難き物を月よりも花こそ世をば思知りけれ	
-zkt-shugyokushu-1340				心心れや惜まれてこそ花は散れ哀憂世の風を痛まぬ	
-zkt-shugyokushu-1341				一かねて思ふ〓とは宛らたがふ世に此〓と計りを背く花哉	
-zkt-shugyokushu-1342				〓花はちりぬ又來む花は遙也折につけたる慰めやなに	
-zkt-shugyokushu-1343				さらでだに散れば空しき花の色に染し心を思返しつ	
-zkt-shugyokushu-1344				〓思ふべし今年計と詠め來て四十の春の花になれぬる	
-zkt-shugyokushu-1345				散る花の故〓とこそ成にけれ我が住む宿の春の暮方	
-zkt-shugyokushu-1346		月五十首		三日月の仄めき初むる頃ねより頓て秋なる空の通路	
-zkt-shugyokushu-1347				待得たる影は物かは夜はの月出る氣色の山のはの空	
-zkt-shugyokushu-1348				ん出やらぬ月をぞ思ふ待得ても頓て泪に曇るべければ	
-zkt-shugyokushu-1349				なすむ月に思ひしまゝの心哉秋と賴みし影を待ちえて	
-zkt-shugyokushu-1350				〓等ね來て見るもかひある廣澤の池こそ月の光也けれ	
+zkt-shugyokushu-1301	1301			一吉野山花を等ぬる人は皆わが類ひとや我を見るらむ	
+zkt-shugyokushu-1302	1302			ニ咲初むる花の梢を眺むれば雪になりゆく三吉野の山	
+zkt-shugyokushu-1303	1303			山櫻匂はぬ程の白雲はいつかはよその目にも懸りし	
+zkt-shugyokushu-1304	1304			花花ゑにいとふ物まで詠むかな隔つる霞散らす山風	
+zkt-shugyokushu-1305	1305			見る人の心にかゝる物やなに春のやよひの白川の雲	
+zkt-shugyokushu-1306	1306			外はおはず宿の物とは九重の御階の花の盛のみこそ	
+zkt-shugyokushu-1307	1307			〓待つおもひ惜む歎のひまにたい哀ほどなき花盛かな	
+zkt-shugyokushu-1308	1308			〓山櫻思ふあまりに世にふれば花こそ人の命なりけれ	
+zkt-shugyokushu-1309	1309			〓春の花詠のる儘の心にて幾程もなき世をすごさばや	
+zkt-shugyokushu-1310	1310			0主主ふ花ならね共咲ぬれば我物とこそ覺えざりけれ	
+zkt-shugyokushu-1311	1311			「眺むれば心もおはず山櫻うき世の外の花とこそ見れ-	
+zkt-shugyokushu-1312	1312			春をへて花を哀れと思ひ知る心の宿はみよし野の山	
+zkt-shugyokushu-1313	1313			吉野山此住ひにぞ思知る憂身ならずば花を見ましや	
+zkt-shugyokushu-1314	1314			筑波山繁き梢を押なべてさながら花と思はましかば	
+zkt-shugyokushu-1315	1315			花の名を春とは云む山里に花無りせば春を見ましや	
+zkt-shugyokushu-1316	1316			花花色色尙濃からまし匂ふ枝に山郭公据て見たらば	
+zkt-shugyokushu-1317	1317			故〓と思ひしかども花故に歸住む身となりぬべき當	
+zkt-shugyokushu-1318	1318			ふよしの山花にかさなる花なれや櫻が枝にかゝる白雲	
+zkt-shugyokushu-1319	1319			かあくがれて多くの花を見しか共尙山里の色は有けり	
+zkt-shugyokushu-1320	1320			み身のうさに思よそへて眺むれどのかぬは花の情也是	
+zkt-shugyokushu-1321	1321			花ゆゑに問ひ來る人の別まで思へば悲し春の山かぜ	
+zkt-shugyokushu-1322	1322			雲に紛ふ高嶺の花の俤は散らで心にかゝるなりけり	
+zkt-shugyokushu-1323	1323			花に吹く春のやま風にほひ來て心まよはす曙のそら	
+zkt-shugyokushu-1324	1324			汀にもあらぬ櫻の枝にさへさヾ波よする志賀の山風	
+zkt-shugyokushu-1325	1325			風わたる梢も道も春ながら雪のみ分くる志賀の山越	
+zkt-shugyokushu-1326	1326			風を痛み山こぐ我は舟なれや花の白波分て來つれば	
+zkt-shugyokushu-1327	1327			山櫻をしまぬ人もありぬべし風の心を我になしつゝ	
+zkt-shugyokushu-1328	1328			ハ〓風に眺めし秋は花故に厭ふべしとは思はざりしを	
+zkt-shugyokushu-1329	1329			みる野の花の梢に誘はれてあだに散り來る春の山風	
+zkt-shugyokushu-1330	1330			00ののにに幾重錦をふきつらむ花散る春の小初瀨の山	
+zkt-shugyokushu-1331	1331			。花の散る吉野の奧の寒き哉空に知らるゝ雪と見る迄	
+zkt-shugyokushu-1332	1332			〓櫻花をしみ兼ねたる夕されは涙も風に散る心ちして	
+zkt-shugyokushu-1333	1333			co山高み雲に紛へて見る花の散るは晴ぬる心ち社すれ	
+zkt-shugyokushu-1334	1334			〓山里の峯の白雲ちりぬれば花見る人も又晴れにけり	
+zkt-shugyokushu-1335	1335			0°のの散散りかゝれるを便にて流れぬ影をながす山水	
+zkt-shugyokushu-1336	1336			可可しやえぞが千島の春の花詠る人もなくて散なむ	
+zkt-shugyokushu-1337	1337			toみ古野の外山の花は散りにけり奥の梢や盛なるらむ	
+zkt-shugyokushu-1338	1338			Noうつろへど人の心の花は尙見えせぬ色に慰みもなし	
+zkt-shugyokushu-1339	1339			加斯計りえ難き物を月よりも花こそ世をば思知りけれ	
+zkt-shugyokushu-1340	1340			心心れや惜まれてこそ花は散れ哀憂世の風を痛まぬ	
+zkt-shugyokushu-1341	1341			一かねて思ふ〓とは宛らたがふ世に此〓と計りを背く花哉	
+zkt-shugyokushu-1342	1342			〓花はちりぬ又來む花は遙也折につけたる慰めやなに	
+zkt-shugyokushu-1343	1343			さらでだに散れば空しき花の色に染し心を思返しつ	
+zkt-shugyokushu-1344	1344			〓思ふべし今年計と詠め來て四十の春の花になれぬる	
+zkt-shugyokushu-1345	1345			散る花の故〓とこそ成にけれ我が住む宿の春の暮方	
+zkt-shugyokushu-1346	1346	月五十首		三日月の仄めき初むる頃ねより頓て秋なる空の通路	
+zkt-shugyokushu-1347	1347			待得たる影は物かは夜はの月出る氣色の山のはの空	
+zkt-shugyokushu-1348	1348			ん出やらぬ月をぞ思ふ待得ても頓て泪に曇るべければ	
+zkt-shugyokushu-1349	1349			なすむ月に思ひしまゝの心哉秋と賴みし影を待ちえて	
+zkt-shugyokushu-1350	1350			〓等ね來て見るもかひある廣澤の池こそ月の光也けれ	

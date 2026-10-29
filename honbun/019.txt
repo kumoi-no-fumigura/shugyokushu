@@ -1,50 +1,50 @@
-zkt-shugyokushu-0901				三とあかで散る花より後の白雲は花よりも尙嬉しかり見	
-zkt-shugyokushu-0902				散も尙ねに歸行く花なれば又くる春も春にぞ有ける	
-zkt-shugyokushu-0903		郭公5		正年をへてさのみは如何郭公尋ても聞く折もあれかし	
-zkt-shugyokushu-0904				浮浮思ふ我が類ひかな郭公さ月待つ間の卯の花の上	
-zkt-shugyokushu-0905				〓公公ばに落る聲の色は秋風よりも身にぞしみぬる	
-zkt-shugyokushu-0906				〓わが君のおもひ出はこれ郭公はな橘の枝に鳴かせて	
-zkt-shugyokushu-0907				〓雲雲づづ梢梢がめて郭公聞かで聞きつるたヾ今の空	
-zkt-shugyokushu-0908				co深山木のふかき綠に雲消えて聲もはれたる時鳥かな	
-zkt-shugyokushu-0909				をちかへり軒ばにを鳴け郭公聲送るべき秋風もなし	
-zkt-shugyokushu-0910				ななむべし軒の萬蒲に雨落ちて郭公なく夕暮のそら	
-zkt-shugyokushu-0911				五人毎にとひて聞かばや郭公同じ聲をば如何聞きなす	
-zkt-shugyokushu-0912				汝が名をしでの田長と聞しより遂の友迄賴むとをしれ	
-zkt-shugyokushu-0913		月		秋の夜の月を爰にて詠めてや明石の浦と云初めけむ	
-zkt-shugyokushu-0914				いかでかはなぐさめか寢む更級や破捨山の有明の空	
-zkt-shugyokushu-0915				詠れば心もさらぬ秋の月己がみ空の晴るゝのみかは	
-zkt-shugyokushu-0916				類ありや哀も深きみ山べに木の間の月を見る心こそ	
-zkt-shugyokushu-0917				〓野野のすヾの篠やの獨寢にもり來る月の無らましかば	
-zkt-shugyokushu-0918				0月月の哀をそへぬ夜はならば唯や聞ましさを鹿の聲	
-zkt-shugyokushu-0919				一孰くにか月は宿りぬ然はあれど影を磨くは玉井の水	
-zkt-shugyokushu-0920				〓吉野川岩にせかれて散る玉を磨くは月の光なりけり	
-zkt-shugyokushu-0921				月形のさゆる光をながむれば草をうづまぬ庭の白雪	
-zkt-shugyokushu-0922				〓深澤の池の波間に月さえてむかしにかへる有明の月	
-zkt-shugyokushu-0923		雪		ひらの山に雪げの雲は見ゆれ共都の空は時雨のみして	
-zkt-shugyokushu-0924				何となく物哀れなり山里の庭のあさぢの今朝の初雪	
-zkt-shugyokushu-0925				庭の雪に跡の附ぬに思ふ哉人知れぬ身も嬉しかり見	
-zkt-shugyokushu-0926				〓積積るときはの森の下紅葉忘れぬべきか花も紅葉も	
-zkt-shugyokushu-0927				〓春秋のをりの哀を過ぐし來て深くなりぬる雪の山里	
-zkt-shugyokushu-0928				∞みわの山孰くに今宵宿らまししるしを埋む雪の夕暮	
-zkt-shugyokushu-0929				。雪積る深山の里に思ふ哉今日迄消えぬ身の停なさよ	
-zkt-shugyokushu-0930				co冬の雪ふり荒みたる空こそは眺はいつも哀なれども	
-zkt-shugyokushu-0931				co冬深しみ山も深し雪ふかしすめる心はなほ淺くのみ	
-zkt-shugyokushu-0932				p。降雪のかつ／″＼花と散來れば春の隣を兼て知れとや	
-zkt-shugyokushu-0933				x0人しれぬ思ふ思はかひもなし戀初て社戀しともせめ	
-zkt-shugyokushu-0934				わふじのねも淺間の山も自らたえ／＼にこそ煙立なれ	
-zkt-shugyokushu-0935				。君故に今よりは知れ逢初て其色よりも深くなるとは	
-zkt-shugyokushu-0936				No歸るさは萎れぞまさる道芝の露に袂の露をそへつゝ	
-zkt-shugyokushu-0937				20花をこめて飽でかへさの道すがら心体むる有明の月	
-zkt-shugyokushu-0938				〓君故にいとゝぞ思ふ身の程はかねても暫し心なれ共	
-zkt-shugyokushu-0939				一春くれば花のありかを眺めても思出るは君が言のみ	
-zkt-shugyokushu-0940				一郭公鳴きてかたらふ夏の庭もながく思ひは秋の心に	
-zkt-shugyokushu-0941				2君想ぬ人に問はやや其もなほ月は涙に雲かゝるやと	
-zkt-shugyokushu-0942				〓我が戀る君だにもこば庭の雪に幾らの跡も只つかばつけ	
-zkt-shugyokushu-0943				一千年まで葉かへぬ松の綠をば君が心の色とたとへむ	
-zkt-shugyokushu-0944				吹きそめし神代もいかに住吉の松の嵐の夕ぐれの空	
-zkt-shugyokushu-0945				武隈の松に心を並べてぞみきとは人に語るべらなる	
-zkt-shugyokushu-0946				んゑに書きて今唐土の人に見せむ霞渡れるこやの松原	
-zkt-shugyokushu-0947				我身こそ鳴尾に立てる一松よくも惡しくも又類なし	
-zkt-shugyokushu-0948				cmあ哉ぬ哉明くれunh見れど玉櫛箇二見の浦の松の村立	
-zkt-shugyokushu-0949				一はやはれよ松の奥こそゆかしけれ霧立渡る天の橋立	
-zkt-shugyokushu-0950				一類の子も千代へのPREしと思らむ蔭に隱るゝ松が浦島	
+zkt-shugyokushu-0901	901			三とあかで散る花より後の白雲は花よりも尙嬉しかり見	
+zkt-shugyokushu-0902	902			散も尙ねに歸行く花なれば又くる春も春にぞ有ける	
+zkt-shugyokushu-0903	903	郭公5		正年をへてさのみは如何郭公尋ても聞く折もあれかし	
+zkt-shugyokushu-0904	904			浮浮思ふ我が類ひかな郭公さ月待つ間の卯の花の上	
+zkt-shugyokushu-0905	905			〓公公ばに落る聲の色は秋風よりも身にぞしみぬる	
+zkt-shugyokushu-0906	906			〓わが君のおもひ出はこれ郭公はな橘の枝に鳴かせて	
+zkt-shugyokushu-0907	907			〓雲雲づづ梢梢がめて郭公聞かで聞きつるたヾ今の空	
+zkt-shugyokushu-0908	908			co深山木のふかき綠に雲消えて聲もはれたる時鳥かな	
+zkt-shugyokushu-0909	909			をちかへり軒ばにを鳴け郭公聲送るべき秋風もなし	
+zkt-shugyokushu-0910	910			ななむべし軒の萬蒲に雨落ちて郭公なく夕暮のそら	
+zkt-shugyokushu-0911	911			五人毎にとひて聞かばや郭公同じ聲をば如何聞きなす	
+zkt-shugyokushu-0912	912			汝が名をしでの田長と聞しより遂の友迄賴むとをしれ	
+zkt-shugyokushu-0913	913	月		秋の夜の月を爰にて詠めてや明石の浦と云初めけむ	
+zkt-shugyokushu-0914	914			いかでかはなぐさめか寢む更級や破捨山の有明の空	
+zkt-shugyokushu-0915	915			詠れば心もさらぬ秋の月己がみ空の晴るゝのみかは	
+zkt-shugyokushu-0916	916			類ありや哀も深きみ山べに木の間の月を見る心こそ	
+zkt-shugyokushu-0917	917			〓野野のすヾの篠やの獨寢にもり來る月の無らましかば	
+zkt-shugyokushu-0918	918			0月月の哀をそへぬ夜はならば唯や聞ましさを鹿の聲	
+zkt-shugyokushu-0919	919			一孰くにか月は宿りぬ然はあれど影を磨くは玉井の水	
+zkt-shugyokushu-0920	920			〓吉野川岩にせかれて散る玉を磨くは月の光なりけり	
+zkt-shugyokushu-0921	921			月形のさゆる光をながむれば草をうづまぬ庭の白雪	
+zkt-shugyokushu-0922	922			〓深澤の池の波間に月さえてむかしにかへる有明の月	
+zkt-shugyokushu-0923	923	雪		ひらの山に雪げの雲は見ゆれ共都の空は時雨のみして	
+zkt-shugyokushu-0924	924			何となく物哀れなり山里の庭のあさぢの今朝の初雪	
+zkt-shugyokushu-0925	925			庭の雪に跡の附ぬに思ふ哉人知れぬ身も嬉しかり見	
+zkt-shugyokushu-0926	926			〓積積るときはの森の下紅葉忘れぬべきか花も紅葉も	
+zkt-shugyokushu-0927	927			〓春秋のをりの哀を過ぐし來て深くなりぬる雪の山里	
+zkt-shugyokushu-0928	928			∞みわの山孰くに今宵宿らまししるしを埋む雪の夕暮	
+zkt-shugyokushu-0929	929			。雪積る深山の里に思ふ哉今日迄消えぬ身の停なさよ	
+zkt-shugyokushu-0930	930			co冬の雪ふり荒みたる空こそは眺はいつも哀なれども	
+zkt-shugyokushu-0931	931			co冬深しみ山も深し雪ふかしすめる心はなほ淺くのみ	
+zkt-shugyokushu-0932	932			p。降雪のかつ／″＼花と散來れば春の隣を兼て知れとや	
+zkt-shugyokushu-0933	933			x0人しれぬ思ふ思はかひもなし戀初て社戀しともせめ	
+zkt-shugyokushu-0934	934			わふじのねも淺間の山も自らたえ／＼にこそ煙立なれ	
+zkt-shugyokushu-0935	935			。君故に今よりは知れ逢初て其色よりも深くなるとは	
+zkt-shugyokushu-0936	936			No歸るさは萎れぞまさる道芝の露に袂の露をそへつゝ	
+zkt-shugyokushu-0937	937			20花をこめて飽でかへさの道すがら心体むる有明の月	
+zkt-shugyokushu-0938	938			〓君故にいとゝぞ思ふ身の程はかねても暫し心なれ共	
+zkt-shugyokushu-0939	939			一春くれば花のありかを眺めても思出るは君が言のみ	
+zkt-shugyokushu-0940	940			一郭公鳴きてかたらふ夏の庭もながく思ひは秋の心に	
+zkt-shugyokushu-0941	941			2君想ぬ人に問はやや其もなほ月は涙に雲かゝるやと	
+zkt-shugyokushu-0942	942			〓我が戀る君だにもこば庭の雪に幾らの跡も只つかばつけ	
+zkt-shugyokushu-0943	943			一千年まで葉かへぬ松の綠をば君が心の色とたとへむ	
+zkt-shugyokushu-0944	944			吹きそめし神代もいかに住吉の松の嵐の夕ぐれの空	
+zkt-shugyokushu-0945	945			武隈の松に心を並べてぞみきとは人に語るべらなる	
+zkt-shugyokushu-0946	946			んゑに書きて今唐土の人に見せむ霞渡れるこやの松原	
+zkt-shugyokushu-0947	947			我身こそ鳴尾に立てる一松よくも惡しくも又類なし	
+zkt-shugyokushu-0948	948			cmあ哉ぬ哉明くれunh見れど玉櫛箇二見の浦の松の村立	
+zkt-shugyokushu-0949	949			一はやはれよ松の奥こそゆかしけれ霧立渡る天の橋立	
+zkt-shugyokushu-0950	950			一類の子も千代へのPREしと思らむ蔭に隱るゝ松が浦島	

@@ -1,50 +1,50 @@
-zkt-shugyokushu-3601				雀ゆる鳴子の綱を引も敢ず稻葉の露の袖にこぼるゝ	
-zkt-shugyokushu-3602				大こしかたを忍ぶ袂の夕露や初かりがねの涙なるらむ	
-zkt-shugyokushu-3603				終夜とばたの面にゐる鴨のこゑにかたむく有明の月	
-zkt-shugyokushu-3604				ヘ秋をしむる鹿の立どは小萩原朝ゆく道に錦をぞふむ	
-zkt-shugyokushu-3605				秋の庭に物侘しくて住む人の同じ音になく蟲の聲哉	
-zkt-shugyokushu-3606				〓萩が枝に契置きける露なれや花に任せて色變るまで	
-zkt-shugyokushu-3607				一月はかな明石の浦も更級もたヾ見る人の心にぞすむ	
-zkt-shugyokushu-3608				一山の端を何か厭はむ夜はの月人の心にいらぬ物かは	
-zkt-shugyokushu-3609				一葉草やうづらの床の朝つゆの袂にうつる秋の夕ぐれ	
-zkt-shugyokushu-3610				聞くたびに袖にうちそふ淚かな秋住吉の松の浦かぜ	
-zkt-shugyokushu-3611				一夜はに越えし昔の跡や立田山梢に秋の焦れ行くらむ	
-zkt-shugyokushu-3612				〓晴れて霜曇れば時雨秋の空色に出るは木葉なりけり	
-zkt-shugyokushu-3613				秋も今は吹飯の浦の松風にたづ鳴くよはの有明の月	
-zkt-shugyokushu-3614				〓秋の暮るゝ鐘よりよそに袖ぬれて盡せず落る我淚哉	
-zkt-shugyokushu-3615		冬十五首		秋の色の飽で枯行く梢より打時雨つゝ冬は來にけり	
-zkt-shugyokushu-3616				思分きて誰眺むらむ秋の尙歸りも敢へぬ冬の景色を	
-zkt-shugyokushu-3617				一秋の尙歸も遣ぬませの裡をいかにと問へば八重の白菊	
-zkt-shugyokushu-3618				一中々にしぐるべき空の村雲を運ぶ嵐にぬるゝ袖かな	
-zkt-shugyokushu-3619				木枯の風になり行く山里の庭の紅葉を人にみせばや	
-zkt-shugyokushu-3620				木葉吹くむこの山風立ちぬらし藍やの奥に螢の釣舟	
-zkt-shugyokushu-3621				秋の色は皆枯々に成果て眞葛に風の吹くかひぞなき	
-zkt-shugyokushu-3622				紅葉ばに秋よりかねて村時雨今は嵐に任せてぞ見る	
-zkt-shugyokushu-3623				かぢ枕冬いかにせむよさの海の沖つ嵐の松に吹く聲	
-zkt-shugyokushu-3624				冬の月をまてとなるべしすさみ行く時雨の雲に案の松風	
-zkt-shugyokushu-3625				神神無月秋の姿の殘る野べを慕ひてすめる夜はの月影	
-zkt-shugyokushu-3626				co湊淡獨獨ききののしばしも浪に立つ空ぞなき	
-zkt-shugyokushu-3627				一冴ゆる夜の月の氷にゐる〓は上毛の霜も光なりけり	
-zkt-shugyokushu-3628				ささ繁繁き霰ふる野にいつか又檜原の雪を三輪の山下	
-zkt-shugyokushu-3629				暮のれば我身に留る年をなど歸ると人の云初めけむ	
-zkt-shugyokushu-3630		戀十首		〓迄迄は身の憂からと忍べ共情をだにも聞でやめとや	
-zkt-shugyokushu-3631				我いとふ人の心とおもはヾやつゝむ袂にちがふ涙を	
-zkt-shugyokushu-3632				如忍ぶぞと獨のみ云言草の誰がすむ宿の軒におふらむ	
-zkt-shugyokushu-3633				好さらば今はしのばじ想ばずば哀綠りの人のとへかし	
-zkt-shugyokushu-3634				暮るゝよりくる人を待つ宵のまは靜心なき賤の苧環	
-zkt-shugyokushu-3635				か空たのめ今は恨めし君故と心にすむはふくる夜の月	
-zkt-shugyokushu-3636				cz君と我行きあふ坂の道もあらば孰方よりか秋の初風	
-zkt-shugyokushu-3637				〓〓へ唯何か怨みむ今は我が憂身を知るも情にもせむ	
-zkt-shugyokushu-3638				我が戀は春とやいはむいつもいな唯大空の秋の夕暮	
-zkt-shugyokushu-3639				頼め尙誰にも云ひし言の葉も止る契の無らざらめや	
-zkt-shugyokushu-3640		器旅十首		〓身計りは野ぢも山路も遮莫心はうはの空よりぞ行く	
-zkt-shugyokushu-3641				旅別て睡ろむ程になる宵を思寢とこそ夢も知りけれ	
-zkt-shugyokushu-3642				大方の浮世の道を引きかけて悟るばかりの旅の空哉	
-zkt-shugyokushu-3643				ばかぢ枕いつと渚に小夜ふけて夢よりぞたつ袖の涙は	
-zkt-shugyokushu-3644				ふかぢ枕いつと清の友千鳥しば鳴くこゑに明くる東雲	
-zkt-shugyokushu-3645				五五の跡を靑行く草葉數へつゝおくも落るも露と涙と	
-zkt-shugyokushu-3646				O*松がねを枕とたのむ住吉の梢しぐるゝ小夜の浦かぜ	
-zkt-shugyokushu-3647				-旅枕鴨のはねがき搔も敢ず幾ら落ちぬる淚なるらむ	
-zkt-shugyokushu-3648				おおかたの露にみだるヽ淚かな旅の哀は袂のみかは	
-zkt-shugyokushu-3649				旅に出て物の哀ぞ知られける此を誠の道になさばや	
-zkt-shugyokushu-3650				〓思ひあへず涙しぐるゝ旅の空いくたの里の秋の夕暮	
+zkt-shugyokushu-3601	3601			雀ゆる鳴子の綱を引も敢ず稻葉の露の袖にこぼるゝ	
+zkt-shugyokushu-3602	3602			大こしかたを忍ぶ袂の夕露や初かりがねの涙なるらむ	
+zkt-shugyokushu-3603	3603			終夜とばたの面にゐる鴨のこゑにかたむく有明の月	
+zkt-shugyokushu-3604	3604			ヘ秋をしむる鹿の立どは小萩原朝ゆく道に錦をぞふむ	
+zkt-shugyokushu-3605	3605			秋の庭に物侘しくて住む人の同じ音になく蟲の聲哉	
+zkt-shugyokushu-3606	3606			〓萩が枝に契置きける露なれや花に任せて色變るまで	
+zkt-shugyokushu-3607	3607			一月はかな明石の浦も更級もたヾ見る人の心にぞすむ	
+zkt-shugyokushu-3608	3608			一山の端を何か厭はむ夜はの月人の心にいらぬ物かは	
+zkt-shugyokushu-3609	3609			一葉草やうづらの床の朝つゆの袂にうつる秋の夕ぐれ	
+zkt-shugyokushu-3610	3610			聞くたびに袖にうちそふ淚かな秋住吉の松の浦かぜ	
+zkt-shugyokushu-3611	3611			一夜はに越えし昔の跡や立田山梢に秋の焦れ行くらむ	
+zkt-shugyokushu-3612	3612			〓晴れて霜曇れば時雨秋の空色に出るは木葉なりけり	
+zkt-shugyokushu-3613	3613			秋も今は吹飯の浦の松風にたづ鳴くよはの有明の月	
+zkt-shugyokushu-3614	3614			〓秋の暮るゝ鐘よりよそに袖ぬれて盡せず落る我淚哉	
+zkt-shugyokushu-3615	3615	冬十五首		秋の色の飽で枯行く梢より打時雨つゝ冬は來にけり	
+zkt-shugyokushu-3616	3616			思分きて誰眺むらむ秋の尙歸りも敢へぬ冬の景色を	
+zkt-shugyokushu-3617	3617			一秋の尙歸も遣ぬませの裡をいかにと問へば八重の白菊	
+zkt-shugyokushu-3618	3618			一中々にしぐるべき空の村雲を運ぶ嵐にぬるゝ袖かな	
+zkt-shugyokushu-3619	3619			木枯の風になり行く山里の庭の紅葉を人にみせばや	
+zkt-shugyokushu-3620	3620			木葉吹くむこの山風立ちぬらし藍やの奥に螢の釣舟	
+zkt-shugyokushu-3621	3621			秋の色は皆枯々に成果て眞葛に風の吹くかひぞなき	
+zkt-shugyokushu-3622	3622			紅葉ばに秋よりかねて村時雨今は嵐に任せてぞ見る	
+zkt-shugyokushu-3623	3623			かぢ枕冬いかにせむよさの海の沖つ嵐の松に吹く聲	
+zkt-shugyokushu-3624	3624			冬の月をまてとなるべしすさみ行く時雨の雲に案の松風	
+zkt-shugyokushu-3625	3625			神神無月秋の姿の殘る野べを慕ひてすめる夜はの月影	
+zkt-shugyokushu-3626	3626			co湊淡獨獨ききののしばしも浪に立つ空ぞなき	
+zkt-shugyokushu-3627	3627			一冴ゆる夜の月の氷にゐる〓は上毛の霜も光なりけり	
+zkt-shugyokushu-3628	3628			ささ繁繁き霰ふる野にいつか又檜原の雪を三輪の山下	
+zkt-shugyokushu-3629	3629			暮のれば我身に留る年をなど歸ると人の云初めけむ	
+zkt-shugyokushu-3630	3630	戀十首		〓迄迄は身の憂からと忍べ共情をだにも聞でやめとや	
+zkt-shugyokushu-3631	3631			我いとふ人の心とおもはヾやつゝむ袂にちがふ涙を	
+zkt-shugyokushu-3632	3632			如忍ぶぞと獨のみ云言草の誰がすむ宿の軒におふらむ	
+zkt-shugyokushu-3633	3633			好さらば今はしのばじ想ばずば哀綠りの人のとへかし	
+zkt-shugyokushu-3634	3634			暮るゝよりくる人を待つ宵のまは靜心なき賤の苧環	
+zkt-shugyokushu-3635	3635			か空たのめ今は恨めし君故と心にすむはふくる夜の月	
+zkt-shugyokushu-3636	3636			cz君と我行きあふ坂の道もあらば孰方よりか秋の初風	
+zkt-shugyokushu-3637	3637			〓〓へ唯何か怨みむ今は我が憂身を知るも情にもせむ	
+zkt-shugyokushu-3638	3638			我が戀は春とやいはむいつもいな唯大空の秋の夕暮	
+zkt-shugyokushu-3639	3639			頼め尙誰にも云ひし言の葉も止る契の無らざらめや	
+zkt-shugyokushu-3640	3640	器旅十首		〓身計りは野ぢも山路も遮莫心はうはの空よりぞ行く	
+zkt-shugyokushu-3641	3641			旅別て睡ろむ程になる宵を思寢とこそ夢も知りけれ	
+zkt-shugyokushu-3642	3642			大方の浮世の道を引きかけて悟るばかりの旅の空哉	
+zkt-shugyokushu-3643	3643			ばかぢ枕いつと渚に小夜ふけて夢よりぞたつ袖の涙は	
+zkt-shugyokushu-3644	3644			ふかぢ枕いつと清の友千鳥しば鳴くこゑに明くる東雲	
+zkt-shugyokushu-3645	3645			五五の跡を靑行く草葉數へつゝおくも落るも露と涙と	
+zkt-shugyokushu-3646	3646			O*松がねを枕とたのむ住吉の梢しぐるゝ小夜の浦かぜ	
+zkt-shugyokushu-3647	3647			-旅枕鴨のはねがき搔も敢ず幾ら落ちぬる淚なるらむ	
+zkt-shugyokushu-3648	3648			おおかたの露にみだるヽ淚かな旅の哀は袂のみかは	
+zkt-shugyokushu-3649	3649			旅に出て物の哀ぞ知られける此を誠の道になさばや	
+zkt-shugyokushu-3650	3650			〓思ひあへず涙しぐるゝ旅の空いくたの里の秋の夕暮	

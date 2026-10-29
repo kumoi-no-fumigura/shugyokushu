@@ -1,50 +1,50 @@
-zkt-shugyokushu-0351				女女郎花まめく野べの思草尾花が本に茂りぬるかな	
-zkt-shugyokushu-0352				身のうさや月の光に類ふらむ秋の心ぞ空に知らるゝ	
-zkt-shugyokushu-0353				〓暫しだに慰む方や無らまし月も憂身を脈はましかば	
-zkt-shugyokushu-0354				聞く人の心ぞたへぬすが原や伏見の暮のさを鹿の聲	
-zkt-shugyokushu-0355				cよよ重ね妻よぶ鹿はいか計小野の草臥露けかるらむ	
-zkt-shugyokushu-0356				一春夏は何か心をなぐさめて秋しも鹿の聲をたつらむ	
-zkt-shugyokushu-0357				一秋は只嘸や悲しき宜しこそ鹿も聲をば惜まざるらむ	
-zkt-shugyokushu-0358				三今よりは宿をぞ野べに移すべき野を移すには鹿の鳴ぬに	
-zkt-shugyokushu-0359				秋山の紅葉は露や染めつらむ時雨は冬の物と社聞け	
-zkt-shugyokushu-0360				正山里の竹のかけひのほそ水に心して散れ家の紅葉ば	
-zkt-shugyokushu-0361				行行秋秋惜む袂の夕露やあすはわりなく袖に殘らむ	
-zkt-shugyokushu-0362		冬八首		何何へ廻り行くらむ初時雨柴の編戶を今ぞ過ぐなる	
-zkt-shugyokushu-0363				〓紅葉の散果てぬれば槇のやに降時雨社紛れざりけれ	
-zkt-shugyokushu-0364				さは山の柞の杜の木の本は散を見る社侘しかりけれ	
-zkt-shugyokushu-0365				〓寂しさを何に譬へむ世を捨つる吉野の奥の冬の夕暮	
-zkt-shugyokushu-0366				一冬の夜は籠の竹に吹く風の度々夢をおどろかすかな	
-zkt-shugyokushu-0367				三汝のみぞ絕えず音すと思ひつる範の水も氷しにけり	
-zkt-shugyokushu-0368				雪解の平の音の絶えぬるはよはの嵐に垂水しぬらむ	
-zkt-shugyokushu-0369				天くだる神の御前に庭火たく煙は雲の心ちこそすれ	
-zkt-shugyokushu-0370		雜十六首		焉の音に鐘の音さへ打添ひて明くるは著き東雲の空	
-zkt-shugyokushu-0371				旅旅するゑ島がさきの磯枕波に立ちそふ我が淚かな	
-zkt-shugyokushu-0372				一日にそへて數ならぬ身の慰めは過にし方を忍ぶ計ぞ	
-zkt-shugyokushu-0373				〓住住獨濁る世をぞ〓ふかと人數ならぬ人に間ばや	
-zkt-shugyokushu-0374				だかねてより思ふも悲し獨ゐてうち眺むべき夕暮の空	
-zkt-shugyokushu-0375				00あしかりし身社變らね皆人は難波の〓とも昔ならぬに	
-zkt-shugyokushu-0376				一斯しつゝ明ぬ暮ぬと長へてまつ〓とは何味氣なの世や	
-zkt-shugyokushu-0377				三花咲かぬ歎に沈む行末は何の身にかはならむとす覽	
-zkt-shugyokushu-0378				高き山深き谷こそ哀なれさならぬ人は音づれもせず	
-zkt-shugyokushu-0379				庭もせにおつる木實にめがれすな峰の檜原に猿鳴也	
-zkt-shugyokushu-0380				傅しな曲かたつきて住むべきを何と浮世に留る心ぞ	
-zkt-shugyokushu-0381				浮世には何に返らむ大海の片ゆく波の立もいでなば	
-zkt-shugyokushu-0382				草結ぶ枕ぞおかぬ岡のべの蟲の音ゆゑに落つる涙に	
-zkt-shugyokushu-0383				10岩ねふみ重なる山を數へつゝ遠かりゆく都をぞ思ふ	
-zkt-shugyokushu-0384				自ら心をすます時もあらじ寂しき〓とをなれぬ類ひは	
-zkt-shugyokushu-0385				3賴賴き方こそなけれ風渡る尾門町花が末の露計だに	
-zkt-shugyokushu-0386		戀十四首		一。がが思思めかねつわぎも子が残捨山の月ならねども	
-zkt-shugyokushu-0387				我我は人知れぬまの高蒲草君が心にひくと聞かばや	
-zkt-shugyokushu-0388				忍ぶとて逢〓と難き戀なればよその人をも恨べきかは	
-zkt-shugyokushu-0389				〓特じとはいつか知べき一筋に心の裏は逢むとのみぞ	
-zkt-shugyokushu-0390				五いいなれば涙の雨はかゝれども燃る思の濕らざる覽	
-zkt-shugyokushu-0391				ねかくしつゝ戀の涙に沈む身は後世とても浮びししせじ	
-zkt-shugyokushu-0392				せおのづから見えつる君.か情こそ戀の病の樂なりけれ	
-zkt-shugyokushu-0393				ささもも順厭ふ心のつらければ逢見てきとや云散さまし	
-zkt-shugyokushu-0394				ル苦苦ささ劣劣らじ物をあながちに厭ふ心も戀ふる心も	
-zkt-shugyokushu-0395				〓〓は唯つらき思はさて置つ逢ふ嬉しさを我に〓へよ	
-zkt-shugyokushu-0396				づいかにせむ見ゆる思を遂にさは心の中にけちて巳ぬる	
-zkt-shugyokushu-0397				さしも斯袖に随なく置露の言の葉每に懸らぬぞうき	
-zkt-shugyokushu-0398				妹は山憂身は空の雲なれや思懸かれば打時雨れつヽ	
-zkt-shugyokushu-0399				n打打き逢はぬ夜數の積る哉幾度ばかり夢に見つらむ	
-zkt-shugyokushu-0400		春二十首		東より日を數へてや春はこし今朝しも霞む音羽山哉	
+zkt-shugyokushu-0351	351			女女郎花まめく野べの思草尾花が本に茂りぬるかな	
+zkt-shugyokushu-0352	352			身のうさや月の光に類ふらむ秋の心ぞ空に知らるゝ	
+zkt-shugyokushu-0353	353			〓暫しだに慰む方や無らまし月も憂身を脈はましかば	
+zkt-shugyokushu-0354	354			聞く人の心ぞたへぬすが原や伏見の暮のさを鹿の聲	
+zkt-shugyokushu-0355	355			cよよ重ね妻よぶ鹿はいか計小野の草臥露けかるらむ	
+zkt-shugyokushu-0356	356			一春夏は何か心をなぐさめて秋しも鹿の聲をたつらむ	
+zkt-shugyokushu-0357	357			一秋は只嘸や悲しき宜しこそ鹿も聲をば惜まざるらむ	
+zkt-shugyokushu-0358	358			三今よりは宿をぞ野べに移すべき野を移すには鹿の鳴ぬに	
+zkt-shugyokushu-0359	359			秋山の紅葉は露や染めつらむ時雨は冬の物と社聞け	
+zkt-shugyokushu-0360	360			正山里の竹のかけひのほそ水に心して散れ家の紅葉ば	
+zkt-shugyokushu-0361	361			行行秋秋惜む袂の夕露やあすはわりなく袖に殘らむ	
+zkt-shugyokushu-0362	362	冬八首		何何へ廻り行くらむ初時雨柴の編戶を今ぞ過ぐなる	
+zkt-shugyokushu-0363	363			〓紅葉の散果てぬれば槇のやに降時雨社紛れざりけれ	
+zkt-shugyokushu-0364	364			さは山の柞の杜の木の本は散を見る社侘しかりけれ	
+zkt-shugyokushu-0365	365			〓寂しさを何に譬へむ世を捨つる吉野の奥の冬の夕暮	
+zkt-shugyokushu-0366	366			一冬の夜は籠の竹に吹く風の度々夢をおどろかすかな	
+zkt-shugyokushu-0367	367			三汝のみぞ絕えず音すと思ひつる範の水も氷しにけり	
+zkt-shugyokushu-0368	368			雪解の平の音の絶えぬるはよはの嵐に垂水しぬらむ	
+zkt-shugyokushu-0369	369			天くだる神の御前に庭火たく煙は雲の心ちこそすれ	
+zkt-shugyokushu-0370	370	雜十六首		焉の音に鐘の音さへ打添ひて明くるは著き東雲の空	
+zkt-shugyokushu-0371	371			旅旅するゑ島がさきの磯枕波に立ちそふ我が淚かな	
+zkt-shugyokushu-0372	372			一日にそへて數ならぬ身の慰めは過にし方を忍ぶ計ぞ	
+zkt-shugyokushu-0373	373			〓住住獨濁る世をぞ〓ふかと人數ならぬ人に間ばや	
+zkt-shugyokushu-0374	374			だかねてより思ふも悲し獨ゐてうち眺むべき夕暮の空	
+zkt-shugyokushu-0375	375			00あしかりし身社變らね皆人は難波の〓とも昔ならぬに	
+zkt-shugyokushu-0376	376			一斯しつゝ明ぬ暮ぬと長へてまつ〓とは何味氣なの世や	
+zkt-shugyokushu-0377	377			三花咲かぬ歎に沈む行末は何の身にかはならむとす覽	
+zkt-shugyokushu-0378	378			高き山深き谷こそ哀なれさならぬ人は音づれもせず	
+zkt-shugyokushu-0379	379			庭もせにおつる木實にめがれすな峰の檜原に猿鳴也	
+zkt-shugyokushu-0380	380			傅しな曲かたつきて住むべきを何と浮世に留る心ぞ	
+zkt-shugyokushu-0381	381			浮世には何に返らむ大海の片ゆく波の立もいでなば	
+zkt-shugyokushu-0382	382			草結ぶ枕ぞおかぬ岡のべの蟲の音ゆゑに落つる涙に	
+zkt-shugyokushu-0383	383			10岩ねふみ重なる山を數へつゝ遠かりゆく都をぞ思ふ	
+zkt-shugyokushu-0384	384			自ら心をすます時もあらじ寂しき〓とをなれぬ類ひは	
+zkt-shugyokushu-0385	385			3賴賴き方こそなけれ風渡る尾門町花が末の露計だに	
+zkt-shugyokushu-0386	386	戀十四首		一。がが思思めかねつわぎも子が残捨山の月ならねども	
+zkt-shugyokushu-0387	387			我我は人知れぬまの高蒲草君が心にひくと聞かばや	
+zkt-shugyokushu-0388	388			忍ぶとて逢〓と難き戀なればよその人をも恨べきかは	
+zkt-shugyokushu-0389	389			〓特じとはいつか知べき一筋に心の裏は逢むとのみぞ	
+zkt-shugyokushu-0390	390			五いいなれば涙の雨はかゝれども燃る思の濕らざる覽	
+zkt-shugyokushu-0391	391			ねかくしつゝ戀の涙に沈む身は後世とても浮びししせじ	
+zkt-shugyokushu-0392	392			せおのづから見えつる君.か情こそ戀の病の樂なりけれ	
+zkt-shugyokushu-0393	393			ささもも順厭ふ心のつらければ逢見てきとや云散さまし	
+zkt-shugyokushu-0394	394			ル苦苦ささ劣劣らじ物をあながちに厭ふ心も戀ふる心も	
+zkt-shugyokushu-0395	395			〓〓は唯つらき思はさて置つ逢ふ嬉しさを我に〓へよ	
+zkt-shugyokushu-0396	396			づいかにせむ見ゆる思を遂にさは心の中にけちて巳ぬる	
+zkt-shugyokushu-0397	397			さしも斯袖に随なく置露の言の葉每に懸らぬぞうき	
+zkt-shugyokushu-0398	398			妹は山憂身は空の雲なれや思懸かれば打時雨れつヽ	
+zkt-shugyokushu-0399	399			n打打き逢はぬ夜數の積る哉幾度ばかり夢に見つらむ	
+zkt-shugyokushu-0400	400	春二十首		東より日を數へてや春はこし今朝しも霞む音羽山哉	
